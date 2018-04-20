@@ -1,0 +1,731 @@
+{
+  "items": [
+    {
+      "state": "updated",
+      "kind": "Holistic",
+      "id": "61655",
+      "modified": "1521565719",
+      "data": {
+        "name": "daoist Yoga and tai chi",
+        "level": "Beginners, Intermediate, Advanced",
+        "eventStatus": "Currently running",
+        "maximumAttendeeCapacity": "20",
+        "accessibilitySupport": [
+          "Visual impairment",
+          "Hearing impairment",
+          "Physical impairment"
+        ],
+        "accessibilityInformation": "",
+        "attendeeInstructions": "Clothing instructions: Sportswear/gym clothes, Comfortable loose clothing, Trainers. No equipment required.",
+        "description": "Very friendly welcoming class to learn daoist chi gong, daoist yoga, daoist breathing, massage, tai chi forms and daoist soft self defence.",
+        "identifier": "61655",
+        "classType": "11b06df1-ccf5-4176-b1be-b4c39c5377c7",
+        "genderRestriction": "",
+        "beta:specialRequirements": [],
+        "beta:accessibilityWheelchairAccess": "",
+        "beta:parking": "Yes",
+        "type:BroadcastEvent": "",
+        "leader": {
+          "name": "Mr Mem Mehmet",
+          "gender": "Male",
+          "url": "https://london.lishi.org/classes/hackney",
+          "identifier": "24633"
+        },
+        "location": {
+          "name": "The Bath House, ",
+          "address": {
+            "streetAddress": "76 Shacklewell Lane<br />Hackney, Dalston",
+            "addressLocality": "London",
+            "postalCode": "E8 2EY"
+          },
+          "geo": {
+            "latitude": "51.552079",
+            "longitude": "-0.071399"
+          },
+          "identifier": "59168",
+          "amenityFeature": {
+            "ChangingFacilities": "Yes",
+            "Showers": "",
+            "Lockers": "",
+            "Towels": "",
+            "Creche": ""
+          }
+        },
+        "eventSchedule": {
+          "byDay": "Friday",
+          "startTime": "7:00pm",
+          "endTime": "9:00pm",
+          "frequency": "Weekly"
+        },
+        "agerange": {
+          "min": "60",
+          "max": "16"
+        },
+        "offer": {
+          "acceptedPaymentMethod": [
+            "Cash",
+            "Bulk class purchase available"
+          ],
+          "price": "£7-10",
+          "eligibleCustomerType": ""
+        },
+        "organizer": {
+          "telephone": "",
+          "url": "",
+          "name": ""
+        }
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "Strength and Conditioning",
+      "id": "61656",
+      "modified": "1521586568",
+      "data": {
+        "name": "Seated Exercise",
+        "level": "Beginners, Intermediate, Advanced",
+        "eventStatus": "Currently running",
+        "maximumAttendeeCapacity": "20",
+        "accessibilitySupport": [
+          "Hearing impairment",
+          "Physical impairment"
+        ],
+        "accessibilityInformation": "",
+        "attendeeInstructions": "Clothing instructions: Comfortable loose clothing, Trainers, Flat shoes. No equipment required.",
+        "description": "Mainly seated exercise working on Flexibility, Aerobic, Balance and Strength.",
+        "identifier": "61656",
+        "classType": "e6d04eaa-a1b9-4e5f-97a3-445783f51bae",
+        "genderRestriction": "",
+        "beta:specialRequirements": [
+          "Chair based"
+        ],
+        "beta:accessibilityWheelchairAccess": "",
+        "beta:parking": "Yes",
+        "type:BroadcastEvent": "",
+        "leader": {
+          "name": "Julia Cragie",
+          "gender": "Female",
+          "url": "http://jcfit.co.uk",
+          "identifier": "13336"
+        },
+        "location": {
+          "name": "Barton Mills Village Hall",
+          "address": {
+            "streetAddress": "Mildenhall Road<br />Barton Mills",
+            "addressLocality": "Bury St. Edmunds",
+            "postalCode": "IP28 6BD"
+          },
+          "geo": {
+            "latitude": "52.335881",
+            "longitude": "0.514319"
+          },
+          "identifier": "59169",
+          "amenityFeature": {
+            "ChangingFacilities": "Yes",
+            "Showers": "",
+            "Lockers": "",
+            "Towels": "",
+            "Creche": ""
+          }
+        },
+        "eventSchedule": {
+          "byDay": "Monday",
+          "startTime": "2:00pm",
+          "endTime": "3:00pm",
+          "frequency": ""
+        },
+        "agerange": {
+          "min": "",
+          "max": "50"
+        },
+        "offer": {
+          "acceptedPaymentMethod": [
+            "Cash"
+          ],
+          "price": "£3-5",
+          "eligibleCustomerType": ""
+        },
+        "organizer": {
+          "telephone": "",
+          "url": "",
+          "name": ""
+        }
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "Dance Fitness",
+      "id": "61663",
+      "modified": "1521631658",
+      "data": {
+        "name": "Hoop Dance for Beginners",
+        "level": "Beginners",
+        "eventStatus": "Currently running",
+        "maximumAttendeeCapacity": "10",
+        "accessibilitySupport": [],
+        "accessibilityInformation": "",
+        "attendeeInstructions": "Clothing instructions: Sportswear/gym clothes, Comfortable loose clothing, Trainers. No equipment required.",
+        "description": "DreamSpin Hoop Dance runs 6 week courses throughout the year for Beginners.  Learn to hoop on and off the body, developing a flow of moves, whilst toning abs, arms, legs.  Helps develop rhythm, co-ordination and body confidence.  I provide all the hoops for the classes, just bring your enthusiasm and playfulness!  I have 10 years of hoop dance experience including performance and am a qualified fitness teacher.",
+        "identifier": "61663",
+        "classType": "",
+        "genderRestriction": "",
+        "beta:specialRequirements": [],
+        "beta:accessibilityWheelchairAccess": "Yes",
+        "beta:parking": "Yes",
+        "type:BroadcastEvent": "",
+        "leader": {
+          "name": "Clare Eaton",
+          "gender": "Female",
+          "url": "https://www.dreamspinhoop.com",
+          "identifier": "2847"
+        },
+        "location": {
+          "name": "The Hanover Centre, 33 Southover Street",
+          "address": {
+            "streetAddress": "33 Southover Street",
+            "addressLocality": "Brighton",
+            "postalCode": "BN2 9UD"
+          },
+          "geo": {
+            "latitude": "50.828554",
+            "longitude": "-0.129055"
+          },
+          "identifier": "59176",
+          "amenityFeature": {
+            "ChangingFacilities": "Yes",
+            "Showers": "No",
+            "Lockers": "No",
+            "Towels": "No",
+            "Creche": "No"
+          }
+        },
+        "eventSchedule": {
+          "byDay": "Monday",
+          "startTime": "6:00pm",
+          "endTime": "7:00pm",
+          "frequency": "Weekly"
+        },
+        "agerange": {
+          "min": "",
+          "max": "14"
+        },
+        "offer": {
+          "acceptedPaymentMethod": [
+            "Pre-pay online"
+          ],
+          "price": "£25+",
+          "eligibleCustomerType": ""
+        },
+        "organizer": {
+          "telephone": "01344 874787",
+          "url": "",
+          "name": "The Fitness League"
+        }
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "Dance",
+      "id": "58692",
+      "modified": "1521632022",
+      "data": {
+        "name": "Hoop Dance - Advanced",
+        "level": "Intermediate, Advanced",
+        "eventStatus": "Currently running",
+        "maximumAttendeeCapacity": "9",
+        "accessibilitySupport": [],
+        "accessibilityInformation": "",
+        "attendeeInstructions": "Clothing instructions: Comfortable loose clothing, Trainers. ",
+        "description": "Hoop Dance - Intermediate - Advanced Levels.  6 week courses throughout the year.  These courses  add advanced moves and more complex flow sequences - chest and leg hooping, hinges, folds, body rolls and wraps.  Take it to the next level and go with the flow. Email me for more information and to check it&#039;s the right level for you.  I always provide hoops for classes, but you are most welcome to bring your own.",
+        "identifier": "58692",
+        "classType": {
+          "error": "Access denied or format unknown on field."
+        },
+        "genderRestriction": "",
+        "beta:specialRequirements": [],
+        "beta:accessibilityWheelchairAccess": "",
+        "beta:parking": "Yes",
+        "type:BroadcastEvent": "",
+        "leader": {
+          "name": "Clare Eaton",
+          "gender": "Female",
+          "url": "https://www.dreamspinhoop.com",
+          "identifier": "2847"
+        },
+        "location": {
+          "name": "The Hanover Centre",
+          "address": {
+            "streetAddress": "33 Southover Street",
+            "addressLocality": "Brighton",
+            "postalCode": "BN2 9UD"
+          },
+          "geo": {
+            "latitude": "50.828551",
+            "longitude": "-0.129161"
+          },
+          "identifier": "56283",
+          "amenityFeature": {
+            "ChangingFacilities": "No",
+            "Showers": "No",
+            "Lockers": "No",
+            "Towels": "No",
+            "Creche": "No"
+          }
+        },
+        "eventSchedule": {
+          "byDay": "Tuesday",
+          "startTime": "6:15pm",
+          "endTime": "7:15pm",
+          "frequency": "Weekly"
+        },
+        "agerange": {
+          "min": "60",
+          "max": "17"
+        },
+        "offer": {
+          "acceptedPaymentMethod": [
+            "Pre-pay online"
+          ],
+          "price": "£25+",
+          "eligibleCustomerType": ""
+        },
+        "organizer": {
+          "telephone": "01403 266000",
+          "url": "",
+          "name": "E.M.D.P."
+        }
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "Dance Fitness",
+      "id": "60852",
+      "modified": "1521633512",
+      "data": {
+        "name": "Hoop Dance Improvers - Progress Your Skills!",
+        "level": "Intermediate, Advanced",
+        "eventStatus": "Currently running",
+        "maximumAttendeeCapacity": "10",
+        "accessibilitySupport": [
+          "Unknown"
+        ],
+        "accessibilityInformation": "",
+        "attendeeInstructions": "Clothing instructions: Comfortable loose clothing, Trainers. Equipment you need to bring: Water Bottle. Feel free to bring these but it is not essential.",
+        "description": "Six Week Improvers Hoop Dance Course. Suitable for those who have been hooping for at least 2 months,   We will move into chest hooping, body rolls and wraps, fine tuning our flow and choreographing routines. Fun, friendly classes.  Runs  as 6 week courses.  Booking essential.  All hoops are provided but please feel free to bring your own.  I am a qualified fitness teach and have 10 years of hoop dance experience including performance.",
+        "identifier": "60852",
+        "classType": "",
+        "genderRestriction": "",
+        "beta:specialRequirements": [],
+        "beta:accessibilityWheelchairAccess": "No",
+        "beta:parking": "Yes",
+        "type:BroadcastEvent": "",
+        "leader": {
+          "name": "Clare Eaton",
+          "gender": "Female",
+          "url": "https://www.dreamspinhoop.com",
+          "identifier": "2847"
+        },
+        "location": {
+          "name": "St Lukes  Church  Hall",
+          "address": {
+            "streetAddress": "Queens Park Road",
+            "addressLocality": "Brighton",
+            "postalCode": "BN2 9ZB"
+          },
+          "geo": {
+            "latitude": "50.828299",
+            "longitude": "-0.123741"
+          },
+          "identifier": "58363",
+          "amenityFeature": {
+            "ChangingFacilities": "No",
+            "Showers": "No",
+            "Lockers": "No",
+            "Towels": "No",
+            "Creche": "No"
+          }
+        },
+        "eventSchedule": {
+          "byDay": "Thursday",
+          "startTime": "6:15pm",
+          "endTime": "7:15pm",
+          "frequency": "Weekly"
+        },
+        "agerange": {
+          "min": "60",
+          "max": "17"
+        },
+        "offer": {
+          "acceptedPaymentMethod": [
+            "Pre-pay online",
+            "Bulk class purchase available"
+          ],
+          "price": "£25+",
+          "eligibleCustomerType": ""
+        },
+        "organizer": {
+          "telephone": "",
+          "url": "",
+          "name": ""
+        }
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "Holistic",
+      "id": "61665",
+      "modified": "1521634053",
+      "data": {
+        "name": "Abhaya Yoga - Hatha Yoga Flow",
+        "level": "Beginners, Intermediate, Advanced",
+        "eventStatus": "Currently running",
+        "maximumAttendeeCapacity": "",
+        "accessibilitySupport": [],
+        "accessibilityInformation": "",
+        "attendeeInstructions": "Clothing instructions: Sportswear/gym clothes, Comfortable loose clothing, No footwear required. Equipment you need to bring: Yoga/Pilates/Exercise Mat. Feel free to bring these but it is not essential.",
+        "description": "Join me on the mat for Thursday morning practice of Hatha Yoga, combining elements of Vinyasa flow, pranayama and mudra to balance mind and body. Stretch, release and breathe.  Suitable for all levels of experience.",
+        "identifier": "61665",
+        "classType": "90611f8f-fea2-402e-827f-41b487a5f3a0",
+        "genderRestriction": "",
+        "beta:specialRequirements": [],
+        "beta:accessibilityWheelchairAccess": "",
+        "beta:parking": "Yes",
+        "type:BroadcastEvent": "",
+        "leader": {
+          "name": "Clare Eaton",
+          "gender": "Female",
+          "url": "",
+          "identifier": "2847"
+        },
+        "location": {
+          "name": "The Edge Community Centre",
+          "address": {
+            "streetAddress": "83 Pankhurst way",
+            "addressLocality": "Brighton",
+            "postalCode": "BN2 9UD"
+          },
+          "geo": {
+            "latitude": "50.829588",
+            "longitude": "-0.116620"
+          },
+          "identifier": "59178",
+          "amenityFeature": {
+            "ChangingFacilities": "Yes",
+            "Showers": "No",
+            "Lockers": "No",
+            "Towels": "No",
+            "Creche": "No"
+          }
+        },
+        "eventSchedule": {
+          "byDay": "Thursday",
+          "startTime": "10:00am",
+          "endTime": "11:00am",
+          "frequency": "Weekly"
+        },
+        "agerange": {
+          "min": "8",
+          "max": ""
+        },
+        "offer": {
+          "acceptedPaymentMethod": [
+            "Cash"
+          ],
+          "price": "£5-7",
+          "eligibleCustomerType": ""
+        },
+        "organizer": {
+          "telephone": "01344 874787",
+          "url": "",
+          "name": "The Fitness League"
+        }
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "Dance Fitness",
+      "id": "60937",
+      "modified": "1521640297",
+      "data": {
+        "name": "FLexercise Bournemouth",
+        "level": "Beginners, Intermediate, Advanced",
+        "eventStatus": "Currently running",
+        "maximumAttendeeCapacity": "40",
+        "accessibilitySupport": [],
+        "accessibilityInformation": "Chair based",
+        "attendeeInstructions": "Clothing instructions: Comfortable loose clothing, Trainers, No footwear required. Equipment you need to bring: Water Bottle, Yoga/Pilates/Exercise Mat. Feel free to bring these but it is not essential.",
+        "description": "",
+        "identifier": "60937",
+        "classType": "30ca53ce-d7fe-4cda-9132-280697673420",
+        "genderRestriction": "",
+        "beta:specialRequirements": [],
+        "beta:accessibilityWheelchairAccess": "Yes",
+        "beta:parking": "Yes",
+        "type:BroadcastEvent": "",
+        "leader": {
+          "name": "Julie Channen",
+          "gender": "Female",
+          "url": "",
+          "identifier": "15442"
+        },
+        "location": {
+          "name": "The Annunciation RC Church",
+          "address": {
+            "streetAddress": "218 Charminster Road",
+            "addressLocality": "Bournemouth",
+            "postalCode": "BH8 9RW"
+          },
+          "geo": {
+            "latitude": "50.738321",
+            "longitude": "-1.863767"
+          },
+          "identifier": "58448",
+          "amenityFeature": {
+            "ChangingFacilities": "",
+            "Showers": "",
+            "Lockers": "",
+            "Towels": "",
+            "Creche": ""
+          }
+        },
+        "eventSchedule": {
+          "byDay": "Friday",
+          "startTime": "11:30am",
+          "endTime": "12:30pm",
+          "frequency": "Weekly"
+        },
+        "agerange": {
+          "min": "99",
+          "max": "50"
+        },
+        "offer": {
+          "acceptedPaymentMethod": [
+            "Cash"
+          ],
+          "price": "£3-5",
+          "eligibleCustomerType": ""
+        },
+        "organizer": {
+          "telephone": "01344 874787",
+          "url": "",
+          "name": "The Fitness League"
+        }
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "Dance Fitness",
+      "id": "60936",
+      "modified": "1521640339",
+      "data": {
+        "name": "FLexercise Bournemouth",
+        "level": "Beginners, Intermediate, Advanced",
+        "eventStatus": "Currently running",
+        "maximumAttendeeCapacity": "40",
+        "accessibilitySupport": [],
+        "accessibilityInformation": "Chair based",
+        "attendeeInstructions": "Clothing instructions: Comfortable loose clothing, Trainers, No footwear required. Equipment you need to bring: Water Bottle, Yoga/Pilates/Exercise Mat. Feel free to bring these but it is not essential.",
+        "description": "",
+        "identifier": "60936",
+        "classType": "30ca53ce-d7fe-4cda-9132-280697673420",
+        "genderRestriction": "",
+        "beta:specialRequirements": [],
+        "beta:accessibilityWheelchairAccess": "Yes",
+        "beta:parking": "Yes",
+        "type:BroadcastEvent": "",
+        "leader": {
+          "name": "Julie Channen",
+          "gender": "Female",
+          "url": "",
+          "identifier": "15442"
+        },
+        "location": {
+          "name": "St Edmond Champion R.C. Church",
+          "address": {
+            "streetAddress": "418 Castle Lane West",
+            "addressLocality": "Bournemouth",
+            "postalCode": "BH8 9TN"
+          },
+          "geo": {
+            "latitude": "50.750890",
+            "longitude": "-1.845807"
+          },
+          "identifier": "58447",
+          "amenityFeature": {
+            "ChangingFacilities": "",
+            "Showers": "",
+            "Lockers": "",
+            "Towels": "",
+            "Creche": ""
+          }
+        },
+        "eventSchedule": {
+          "byDay": "Friday",
+          "startTime": "10:00am",
+          "endTime": "11:00am",
+          "frequency": "Weekly"
+        },
+        "agerange": {
+          "min": "99",
+          "max": "50"
+        },
+        "offer": {
+          "acceptedPaymentMethod": [
+            "Cash"
+          ],
+          "price": "£3-5",
+          "eligibleCustomerType": ""
+        },
+        "organizer": {
+          "telephone": "01344 874787",
+          "url": "",
+          "name": "The Fitness League"
+        }
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "Dance Fitness",
+      "id": "60935",
+      "modified": "1521640364",
+      "data": {
+        "name": "FLexercise West Moors",
+        "level": "Beginners, Intermediate, Advanced",
+        "eventStatus": "Currently running",
+        "maximumAttendeeCapacity": "40",
+        "accessibilitySupport": [],
+        "accessibilityInformation": "Chair based ",
+        "attendeeInstructions": "Clothing instructions: Comfortable loose clothing, Trainers, Flat shoes. Equipment you need to bring: Water Bottle, Yoga/Pilates/Exercise Mat. Feel free to bring these but it is not essential.",
+        "description": "",
+        "identifier": "60935",
+        "classType": "30ca53ce-d7fe-4cda-9132-280697673420",
+        "genderRestriction": "",
+        "beta:specialRequirements": [],
+        "beta:accessibilityWheelchairAccess": "Yes",
+        "beta:parking": "Yes",
+        "type:BroadcastEvent": "",
+        "leader": {
+          "name": "Julie Channen",
+          "gender": "Female",
+          "url": "",
+          "identifier": "15442"
+        },
+        "location": {
+          "name": "St Antony&#039;s Church",
+          "address": {
+            "streetAddress": "8 Pinehurst Road, ",
+            "addressLocality": "West Moors",
+            "postalCode": "BH22 0AP"
+          },
+          "geo": {
+            "latitude": "50.821111",
+            "longitude": "-1.883792"
+          },
+          "identifier": "58446",
+          "amenityFeature": {
+            "ChangingFacilities": "",
+            "Showers": "",
+            "Lockers": "",
+            "Towels": "",
+            "Creche": ""
+          }
+        },
+        "eventSchedule": {
+          "byDay": "Thursday",
+          "startTime": "10:00am",
+          "endTime": "11:00am",
+          "frequency": "Weekly"
+        },
+        "agerange": {
+          "min": "99",
+          "max": "50"
+        },
+        "offer": {
+          "acceptedPaymentMethod": [
+            "Cash"
+          ],
+          "price": "£3-5",
+          "eligibleCustomerType": ""
+        },
+        "organizer": {
+          "telephone": "01344 874787",
+          "url": "",
+          "name": "The Fitness League"
+        }
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "Dance Fitness",
+      "id": "58845",
+      "modified": "1521640430",
+      "data": {
+        "name": "FLexercise Hyde &amp; Frogham",
+        "level": "Beginners, Intermediate, Advanced",
+        "eventStatus": "Currently running",
+        "maximumAttendeeCapacity": "40",
+        "accessibilitySupport": [],
+        "accessibilityInformation": "",
+        "attendeeInstructions": "Clothing instructions: Comfortable loose clothing, No footwear required. Equipment you need to bring: Water Bottle, Yoga/Pilates/Exercise Mat. Feel free to bring these but it is not essential.",
+        "description": "",
+        "identifier": "58845",
+        "classType": "30ca53ce-d7fe-4cda-9132-280697673420",
+        "genderRestriction": "",
+        "beta:specialRequirements": [],
+        "beta:accessibilityWheelchairAccess": "Yes",
+        "beta:parking": "Yes",
+        "type:BroadcastEvent": "",
+        "leader": {
+          "name": "Julie Channen",
+          "gender": "Female",
+          "url": "",
+          "identifier": "15442"
+        },
+        "location": {
+          "name": "Hyde and Frogham Memorial Hall",
+          "address": {
+            "streetAddress": "Frogham Cross",
+            "addressLocality": "Fordingbridge",
+            "postalCode": "SP6 2HU"
+          },
+          "geo": {
+            "latitude": "50.914410",
+            "longitude": "-1.756210"
+          },
+          "identifier": "56433",
+          "amenityFeature": {
+            "ChangingFacilities": "",
+            "Showers": "",
+            "Lockers": "",
+            "Towels": "",
+            "Creche": ""
+          }
+        },
+        "eventSchedule": {
+          "byDay": "Tuesday",
+          "startTime": "10:00am",
+          "endTime": "11:00am",
+          "frequency": "Weekly"
+        },
+        "agerange": {
+          "min": "99",
+          "max": "50"
+        },
+        "offer": {
+          "acceptedPaymentMethod": [
+            "Cash"
+          ],
+          "price": "£3-5",
+          "eligibleCustomerType": ""
+        },
+        "organizer": {
+          "telephone": "01344 874787",
+          "url": "",
+          "name": "The Fitness League"
+        }
+      }
+    }
+  ],
+  "next": "openactive/classes/public?afterTimestamp=1521640430&afterId=58845",
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}
