@@ -1,0 +1,11 @@
+- startDate missing timestamp - "Z"
+- match RPDE spec for "data" block (currently everything is merged together)
+- "status" should be "state" outside "data" block
+- include types for each object
+- "id" => "identifier" for internal (non-URL) ids
+- use "location" inside organizer for address fields, of type "Place", and use "address" field inside "Place" for address.
+- use "geo" field inside "Place" for lat/long (using "latitude" and "longitude")
+- "activity" is of type "Concept"
+- ensuring that modified date is updated each time that a session changes (is currently updated every 5 minutes)
+- modified field should be int type of linux epoch to match afterTimestamp
+- when "maximumAttendeeCapacity": 0 (which means "unlimited" in teamup), don't include maximumAttendeeCapacity or remainingAttendeeCapacity
