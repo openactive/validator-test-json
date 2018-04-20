@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "id": 12107987,
+      "url": "https://goteamup.com/p/1601288-imin-ltd/e/12107987-test-123/",
+      "description": "Sit with Ben and learn about his wonderful world.",
+      "startDate": "2018-04-10T08:00:00",
+      "endDate": "2018-04-10T09:00:00",
+      "name": "Test 123",
+      "maximumAttendeeCapacity": 0,
+      "remainingAttendeeCapacity": 0,
+      "status": "updated",
+      "organizer": {
+        "address": "GB",
+        "id": 1601288,
+        "lat": null,
+        "long": null,
+        "name": "IMIN LTD",
+        "url": "https://goteamup.com/p/1601288-imin-ltd/store/"
+      },
+      "location": {
+        "address": "14-22 Elder Street, London, London, E1 6BT, GB",
+        "description": "Ben's Dojo for technical whizzbang",
+        "id": 17443,
+        "lat": 51.5213174,
+        "long": -0.0766788,
+        "name": "Gambe's Dojo",
+        "url": ""
+      },
+      "leader": null,
+      "contributor": null,
+      "activity": {
+        "id": 36066,
+        "description": "Sit with Ben and learn about his wonderful world.",
+        "prefLabel": "The wonderful world of Ben Gamble"
+      },
+      "duration": "PT1H"
+    },
+    {
+      "id": 12107992,
+      "url": "https://goteamup.com/p/1601288-imin-ltd/e/12107992-the-wonderful-world-of-ben-gamble/",
+      "description": "Sit with Ben and learn about his wonderful world.",
+      "startDate": "2018-02-17T08:00:00",
+      "endDate": "2018-02-17T09:00:00",
+      "name": "The wonderful world of Ben Gamble",
+      "maximumAttendeeCapacity": 0,
+      "remainingAttendeeCapacity": 0,
+      "status": "updated",
+      "organizer": {
+        "address": "GB",
+        "id": 1601288,
+        "lat": null,
+        "long": null,
+        "name": "IMIN LTD",
+        "url": "https://goteamup.com/p/1601288-imin-ltd/store/"
+      },
+      "location": {
+        "address": "14-22 Elder Street, London, London, E1 6BT, GB",
+        "description": "Ben's Dojo for technical whizzbang",
+        "id": 17443,
+        "lat": 51.5213174,
+        "long": -0.0766788,
+        "name": "Gambe's Dojo",
+        "url": ""
+      },
+      "leader": {
+        "id": 66170,
+        "description": "",
+        "image": "https://assets.goteamup.com/instructor_pics/default.jpg",
+        "name": "Nishal Desai"
+      },
+      "contributor": null,
+      "activity": {
+        "id": 36066,
+        "description": "Sit with Ben and learn about his wonderful world.",
+        "prefLabel": "The wonderful world of Ben Gamble"
+      },
+      "duration": "PT1H"
+    }
+  ],
+  "next": "http://localhost:8080/v1/events?afterTimestamp=2018-04-04T11:45:45.191Z&afterId=12107992&limit=2",
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}
