@@ -92,8 +92,8 @@
             "endDate": "2017-12-31", /* schedules must have a limit (they can't just be set to run forever as are unlikely to be accurate), suggest 6 months max as schedule duration */
             "frequency": "weekly", /* note not "Weekly" */
             "byDay": "http://schema.org/Friday", /* note must use schema.org days of week */
-            "startTime": "19:00", /* note not "7:00pm" */
-            "endTime": "20:00" /* note not "8:00pm" */
+            "startTime": "19:00Z", /* note not "7:00pm", and time in UTC with timezone marker 'Z' */
+            "endTime": "20:00Z" /* note not "8:00pm", and time in UTC with timezone marker 'Z' */
         },
         "ageRange": { /* note capitalisation of ageRange */
            "type": "QuantifiedValue", /* should include a type as per https://github.com/openactive/modelling-opportunity-data/issues/68 */
