@@ -1,0 +1,754 @@
+{
+  "next": "http://lr-api.staging.phoenixdigital.agency/public/v1/rides?afterTimestamp=130&afterId=1663",
+  "items": [
+    {
+      "state": "updated",
+      "id": 305,
+      "kind": "event",
+      "modified": 1,
+      "data": {
+        "@context": [
+          "https://www.openactive.io/ns/oa.jsonld",
+          "https://www.openactive.io/ns-beta/oa.jsonld"
+        ],
+        "type": "Event",
+        "identifier": 305,
+        "url": "https://www.letsride.co.uk/rides/mayor-of-londons-sky-ride",
+        "activity": [
+          {
+            "id": "https://openactive.io/activity-list/#2a41c553-84be-4970-b3d0-42f9ef6bd9a4",
+            "prefLabel": "Road Cycling",
+            "type": "Concept",
+            "inScheme": "https://www.openactive.io/activity-list"
+          }
+        ],
+        "startDate": "2010-09-05T09:30:00+01:00",
+        "remainingAttendeeCapacity": 1,
+        "beta:attendeeCount": 0,
+        "beta:distance": { "type": "QuantitativeValue", "value": 25, "unitCode": "SMI" },
+        "name": "Mayor of London's Sky Ride",
+        "programme": {
+          "type": "Brand",
+          "identifier": "events",
+          "name": "HSBC UK Let’s Ride",
+          "description": "Let’s Ride events are fun days out where cyclists take over the streets of a town or city. Riding on roads normally full of cars is an unforgettable experience. There’s loads of other stuff going on too, from music and market stalls, to extreme cycling and competitions.",
+          "url": "https://lr.staging.phoenixdigital.agencyevents",
+          "logo": "https://lr-media.staging.phoenixdigital.agency/view/13462570c717276edddf28d1a0727d89/2018 LETS RIDE LONGBOX RGB LOGO KEYLINE.svg"
+        },
+        "britishcycling:routePhotos": [],
+        "level": [ "Easygoing" ],
+        "location": {
+          "type": "Place",
+          "description": "London Sky Ride City",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "addressLocality": "London",
+            "addressRegion": "London",
+            "postalCode": "SW1A 2BJ",
+            "streetAddress": "St James Westminster"
+          },
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 51.50303124,
+            "longitude": -0.13020879
+          },
+          "amenityFeature": [
+            {
+              "name": "Changing Rooms",
+              "type": "ChangingRooms",
+              "value": false
+            },
+            {
+              "name": "Public Toilets",
+              "type": "PublicToilets",
+              "value": true
+            },
+            { "name": "Parking", "type": "Parking", "value": false }
+          ]
+        },
+        "image": [],
+        "description": null,
+        "beta:formattedDescription": null,
+        "offers": [
+          {
+            "type": "Offer",
+            "url": "https://www.letsride.co.uk/rides/mayor-of-londons-sky-ride/book",
+            "price": "0"
+          }
+        ],
+        "isAccessibleForFree": true
+      }
+    },
+    {
+      "state": "updated",
+      "id": 307,
+      "kind": "event",
+      "modified": 3,
+      "data": {
+        "@context": [
+          "https://www.openactive.io/ns/oa.jsonld",
+          "https://www.openactive.io/ns-beta/oa.jsonld"
+        ],
+        "type": "Event",
+        "identifier": 307,
+        "url": "https://www.letsride.co.uk/rides/sky-ride-glasgow",
+        "activity": [
+          {
+            "id": "http://openactive.io/activity-list/#2a41c553-84be-4970-b3d0-42f9ef6bd9a4",
+            "prefLabel": "Road Cycling",
+            "type": "Concept",
+            "inScheme": "https://www.openactive.io/activity-list/activity-list.jsonld"
+          }
+        ],
+        "startDate": "2010-08-22T09:30:00+01:00",
+        "beta:attendeeCount": 0,
+        "beta:distance": { "type": "QuantitativeValue", "value": 30, "unitCode": "SMI" },
+        "name": "Sky Ride Glasgow",
+        "programme": {
+          "type": "Brand",
+          "identifier": "events",
+          "name": "HSBC UK Let’s Ride",
+          "description": "Let’s Ride events are fun days out where cyclists take over the streets of a town or city. Riding on roads normally full of cars is an unforgettable experience. There’s loads of other stuff going on too, from music and market stalls, to extreme cycling and competitions.",
+          "url": "https://lr.staging.phoenixdigital.agencyevents",
+          "logo": "https://lr-media.staging.phoenixdigital.agency/view/13462570c717276edddf28d1a0727d89/2018 LETS RIDE LONGBOX RGB LOGO KEYLINE.svg"
+        },
+        "britishcycling:routePhotos": [],
+        "level": [ "Easygoing" ],
+        "location": {
+          "type": "Place",
+          "description": "Glasgow City",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "addressLocality": "Glasgow",
+            "addressRegion": "Lanarkshire",
+            "postalCode": "G3 8RS",
+            "streetAddress": "Riverside Museum Pointhouse Place"
+          },
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 55.86472622,
+            "longitude": -4.30744508
+          },
+          "amenityFeature": [
+            {
+              "name": "Changing Rooms",
+              "type": "ChangingRooms",
+              "value": false
+            },
+            {
+              "name": "Public Toilets",
+              "type": "PublicToilets",
+              "value": false
+            },
+            { "name": "Parking", "type": "Parking", "value": false }
+          ]
+        },
+        "image": [],
+        "description": null,
+        "beta:formattedDescription": null,
+        "offers": [
+          {
+            "type": "Offer",
+            "url": "https://www.letsride.co.uk/rides/sky-ride-glasgow/book",
+            "price": "0"
+          }
+        ],
+        "isAccessibleForFree": true
+      }
+    },
+    {
+      "state": "updated",
+      "id": 308,
+      "kind": "event",
+      "modified": 4,
+      "data": {
+        "@context": [
+          "https://www.openactive.io/ns/oa.jsonld",
+          "https://www.openactive.io/ns-beta/oa.jsonld"
+        ],
+        "type": "Event",
+        "identifier": 308,
+        "url": "https://www.letsride.co.uk/rides/sky-ride-birmingham",
+        "activity": [
+          {
+            "id": "http://openactive.io/activity-list/#2a41c553-84be-4970-b3d0-42f9ef6bd9a4",
+            "prefLabel": "Road Cycling",
+            "type": "Concept",
+            "inScheme": "https://www.openactive.io/activity-list/activity-list.jsonld"
+          }
+        ],
+        "startDate": "2010-09-12T10:00:00+01:00",
+        "remainingAttendeeCapacity": 2,
+        "beta:attendeeCount": 0,
+        "beta:distance": { "type": "QuantitativeValue", "value": 6, "unitCode": "SMI" },
+        "name": "Sky Ride Birmingham",
+        "programme": {
+          "type": "Brand",
+          "identifier": "events",
+          "name": "HSBC UK Let’s Ride",
+          "description": "Let’s Ride events are fun days out where cyclists take over the streets of a town or city. Riding on roads normally full of cars is an unforgettable experience. There’s loads of other stuff going on too, from music and market stalls, to extreme cycling and competitions.",
+          "url": "https://lr.staging.phoenixdigital.agencyevents",
+          "logo": "https://lr-media.staging.phoenixdigital.agency/view/13462570c717276edddf28d1a0727d89/2018 LETS RIDE LONGBOX RGB LOGO KEYLINE.svg"
+        },
+        "britishcycling:routePhotos": [],
+        "level": [ "Easygoing" ],
+        "location": {
+          "type": "Place",
+          "description": "Birmingham NIA",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "addressLocality": "Birmingham",
+            "addressRegion": "West Midlands",
+            "postalCode": "B15 2TU",
+            "streetAddress": "Chancellors Court University of Birmingham"
+          },
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 52.44907783,
+            "longitude": -1.92790263
+          },
+          "amenityFeature": [
+            {
+              "name": "Changing Rooms",
+              "type": "ChangingRooms",
+              "value": false
+            },
+            {
+              "name": "Public Toilets",
+              "type": "PublicToilets",
+              "value": false
+            },
+            { "name": "Parking", "type": "Parking", "value": false }
+          ]
+        },
+        "image": [],
+        "description": null,
+        "beta:formattedDescription": null,
+        "offers": [
+          {
+            "type": "Offer",
+            "url": "https://www.letsride.co.uk/rides/sky-ride-birmingham/book",
+            "price": "0"
+          }
+        ],
+        "isAccessibleForFree": true,
+        "britishcycling:gpxFile": "https://lr-media.staging.phoenixdigital.agency/download/7f84bff700177382fe919d23a0dafb00",
+        "britishcycling:terrain": "Tarmac Road",
+        "britishcycling:topography": "Mostly Flat"
+      }
+    },
+    {
+      "state": "updated",
+      "id": 309,
+      "kind": "event",
+      "modified": 5,
+      "data": {
+        "@context": [
+          "https://www.openactive.io/ns/oa.jsonld",
+          "https://www.openactive.io/ns-beta/oa.jsonld"
+        ],
+        "type": "Event",
+        "identifier": 309,
+        "url": "https://www.letsride.co.uk/rides/mayor-of-londons-sky-ride-ealing",
+        "activity": [
+          {
+            "id": "http://openactive.io/activity-list/#2a41c553-84be-4970-b3d0-42f9ef6bd9a4",
+            "prefLabel": "Road Cycling",
+            "type": "Concept",
+            "inScheme": "https://www.openactive.io/activity-list/activity-list.jsonld"
+          }
+        ],
+        "startDate": "2010-07-18T10:00:00+01:00",
+        "beta:attendeeCount": 0,
+        "beta:distance": { "type": "QuantitativeValue", "value": 30, "unitCode": "SMI" },
+        "name": "Mayor of London's Sky Ride Ealing",
+        "programme": {
+          "type": "Brand",
+          "identifier": "events",
+          "name": "HSBC UK Let’s Ride",
+          "description": "Let’s Ride events are fun days out where cyclists take over the streets of a town or city. Riding on roads normally full of cars is an unforgettable experience. There’s loads of other stuff going on too, from music and market stalls, to extreme cycling and competitions.",
+          "url": "https://lr.staging.phoenixdigital.agencyevents",
+          "logo": "https://lr-media.staging.phoenixdigital.agency/view/13462570c717276edddf28d1a0727d89/2018 LETS RIDE LONGBOX RGB LOGO KEYLINE.svg"
+        },
+        "britishcycling:routePhotos": [],
+        "level": [ "Easygoing" ],
+        "location": {
+          "type": "Place",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "postalCode": "W5 3TJ"
+          },
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 51.51329397,
+            "longitude": -0.29809099
+          },
+          "amenityFeature": []
+        },
+        "image": [],
+        "offers": [
+          {
+            "type": "Offer",
+            "url": "https://www.letsride.co.uk/rides/mayor-of-londons-sky-ride-ealing/book",
+            "price": "0"
+          }
+        ],
+        "isAccessibleForFree": true
+      }
+    },
+    {
+      "state": "updated",
+      "id": 310,
+      "kind": "event",
+      "modified": 6,
+      "data": {
+        "@context": [
+          "https://www.openactive.io/ns/oa.jsonld",
+          "https://www.openactive.io/ns-beta/oa.jsonld"
+        ],
+        "type": "Event",
+        "identifier": 310,
+        "url": "https://www.letsride.co.uk/rides/mayor-of-londons-sky-ride-redbridge",
+        "activity": [
+          {
+            "id": "http://openactive.io/activity-list/#2a41c553-84be-4970-b3d0-42f9ef6bd9a4",
+            "prefLabel": "Road Cycling",
+            "type": "Concept",
+            "inScheme": "https://www.openactive.io/activity-list/activity-list.jsonld"
+          }
+        ],
+        "startDate": "2010-08-15T11:00:00+01:00",
+        "beta:attendeeCount": 0,
+        "beta:distance": { "type": "QuantitativeValue", "value": 30, "unitCode": "SMI" },
+        "name": "Mayor of London's Sky Ride Redbridge",
+        "programme": {
+          "type": "Brand",
+          "identifier": "events",
+          "name": "HSBC UK Let’s Ride",
+          "description": "Let’s Ride events are fun days out where cyclists take over the streets of a town or city. Riding on roads normally full of cars is an unforgettable experience. There’s loads of other stuff going on too, from music and market stalls, to extreme cycling and competitions.",
+          "url": "https://lr.staging.phoenixdigital.agencyevents",
+          "logo": "https://lr-media.staging.phoenixdigital.agency/view/13462570c717276edddf28d1a0727d89/2018 LETS RIDE LONGBOX RGB LOGO KEYLINE.svg"
+        },
+        "britishcycling:routePhotos": [],
+        "level": [ "Easygoing" ],
+        "location": {
+          "type": "Place",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "postalCode": "IG6 3HN"
+          },
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 51.59502492,
+            "longitude": 0.09796482
+          },
+          "amenityFeature": []
+        },
+        "image": [],
+        "offers": [
+          {
+            "type": "Offer",
+            "url": "https://www.letsride.co.uk/rides/mayor-of-londons-sky-ride-redbridge/book",
+            "price": "0"
+          }
+        ],
+        "isAccessibleForFree": true
+      }
+    },
+    {
+      "state": "updated",
+      "id": 311,
+      "kind": "event",
+      "modified": 7,
+      "data": {
+        "@context": [
+          "https://www.openactive.io/ns/oa.jsonld",
+          "https://www.openactive.io/ns-beta/oa.jsonld"
+        ],
+        "type": "Event",
+        "identifier": 311,
+        "url": "https://www.letsride.co.uk/rides/sky-ride-southampton",
+        "activity": [
+          {
+            "id": "http://openactive.io/activity-list/#2a41c553-84be-4970-b3d0-42f9ef6bd9a4",
+            "prefLabel": "Road Cycling",
+            "type": "Concept",
+            "inScheme": "https://www.openactive.io/activity-list/activity-list.jsonld"
+          }
+        ],
+        "startDate": "2010-07-25T10:00:00+01:00",
+        "beta:attendeeCount": 0,
+        "beta:distance": { "type": "QuantitativeValue", "value": 30, "unitCode": "SMI" },
+        "name": "Sky Ride Southampton",
+        "programme": {
+          "type": "Brand",
+          "identifier": "events",
+          "name": "HSBC UK Let’s Ride",
+          "description": "Let’s Ride events are fun days out where cyclists take over the streets of a town or city. Riding on roads normally full of cars is an unforgettable experience. There’s loads of other stuff going on too, from music and market stalls, to extreme cycling and competitions.",
+          "url": "https://lr.staging.phoenixdigital.agencyevents",
+          "logo": "https://lr-media.staging.phoenixdigital.agency/view/13462570c717276edddf28d1a0727d89/2018 LETS RIDE LONGBOX RGB LOGO KEYLINE.svg"
+        },
+        "britishcycling:routePhotos": [],
+        "level": [ "Easygoing" ],
+        "location": {
+          "type": "Place",
+          "description": "Southampton",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "addressLocality": "Southampton",
+            "addressRegion": "Hampshire",
+            "postalCode": "SO14 7LP",
+            "streetAddress": "Guildhall Square The Avenue"
+          },
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 50.90850013,
+            "longitude": -1.40672718
+          },
+          "amenityFeature": [
+            {
+              "name": "Changing Rooms",
+              "type": "ChangingRooms",
+              "value": false
+            },
+            {
+              "name": "Public Toilets",
+              "type": "PublicToilets",
+              "value": false
+            },
+            { "name": "Parking", "type": "Parking", "value": false }
+          ]
+        },
+        "image": [],
+        "description": null,
+        "beta:formattedDescription": null,
+        "offers": [
+          {
+            "type": "Offer",
+            "url": "https://www.letsride.co.uk/rides/sky-ride-southampton/book",
+            "price": "0"
+          }
+        ],
+        "isAccessibleForFree": true
+      }
+    },
+    {
+      "state": "updated",
+      "id": 312,
+      "kind": "event",
+      "modified": 8,
+      "data": {
+        "@context": [
+          "https://www.openactive.io/ns/oa.jsonld",
+          "https://www.openactive.io/ns-beta/oa.jsonld"
+        ],
+        "type": "Event",
+        "identifier": 312,
+        "url": "https://www.letsride.co.uk/rides/sky-ride-leicester",
+        "activity": [
+          {
+            "id": "http://openactive.io/activity-list/#2a41c553-84be-4970-b3d0-42f9ef6bd9a4",
+            "prefLabel": "Road Cycling",
+            "type": "Concept",
+            "inScheme": "https://www.openactive.io/activity-list/activity-list.jsonld"
+          }
+        ],
+        "startDate": "2010-08-29T10:00:00+01:00",
+        "beta:attendeeCount": 0,
+        "beta:distance": { "type": "QuantitativeValue", "value": 4, "unitCode": "SMI" },
+        "name": "Sky Ride Leicester",
+        "programme": {
+          "type": "Brand",
+          "identifier": "events",
+          "name": "HSBC UK Let’s Ride",
+          "description": "Let’s Ride events are fun days out where cyclists take over the streets of a town or city. Riding on roads normally full of cars is an unforgettable experience. There’s loads of other stuff going on too, from music and market stalls, to extreme cycling and competitions.",
+          "url": "https://lr.staging.phoenixdigital.agencyevents",
+          "logo": "https://lr-media.staging.phoenixdigital.agency/view/13462570c717276edddf28d1a0727d89/2018 LETS RIDE LONGBOX RGB LOGO KEYLINE.svg"
+        },
+        "britishcycling:routePhotos": [],
+        "level": [ "Easygoing" ],
+        "location": {
+          "type": "Place",
+          "description": "Leicester",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "addressLocality": "Leicester",
+            "addressRegion": "Leicestershire",
+            "postalCode": "LE4 5AQ",
+            "streetAddress": "Abbey Park  "
+          },
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 52.64705172,
+            "longitude": -1.13065428
+          },
+          "amenityFeature": [
+            {
+              "name": "Changing Rooms",
+              "type": "ChangingRooms",
+              "value": false
+            },
+            {
+              "name": "Public Toilets",
+              "type": "PublicToilets",
+              "value": false
+            },
+            { "name": "Parking", "type": "Parking", "value": false }
+          ]
+        },
+        "image": [],
+        "offers": [
+          {
+            "type": "Offer",
+            "url": "https://www.letsride.co.uk/rides/sky-ride-leicester/book",
+            "price": "0"
+          }
+        ],
+        "isAccessibleForFree": true,
+        "britishcycling:gpxFile": "https://lr-media.staging.phoenixdigital.agency/download/4642bcbe93554f76370b8ae60dd74646"
+      }
+    },
+    {
+      "state": "updated",
+      "id": 313,
+      "kind": "event",
+      "modified": 9,
+      "data": {
+        "@context": [
+          "https://www.openactive.io/ns/oa.jsonld",
+          "https://www.openactive.io/ns-beta/oa.jsonld"
+        ],
+        "type": "Event",
+        "identifier": 313,
+        "url": "https://www.letsride.co.uk/rides/sky-ride-bath",
+        "activity": [
+          {
+            "id": "http://openactive.io/activity-list/#2a41c553-84be-4970-b3d0-42f9ef6bd9a4",
+            "prefLabel": "Road Cycling",
+            "type": "Concept",
+            "inScheme": "https://www.openactive.io/activity-list/activity-list.jsonld"
+          }
+        ],
+        "startDate": "2010-07-25T10:00:00+01:00",
+        "beta:attendeeCount": 0,
+        "beta:distance": { "type": "QuantitativeValue", "value": 0, "unitCode": "SMI" },
+        "name": "Sky Ride Bath",
+        "programme": {
+          "type": "Brand",
+          "identifier": "events",
+          "name": "HSBC UK Let’s Ride",
+          "description": "Let’s Ride events are fun days out where cyclists take over the streets of a town or city. Riding on roads normally full of cars is an unforgettable experience. There’s loads of other stuff going on too, from music and market stalls, to extreme cycling and competitions.",
+          "url": "https://lr.staging.phoenixdigital.agencyevents",
+          "logo": "https://lr-media.staging.phoenixdigital.agency/view/13462570c717276edddf28d1a0727d89/2018 LETS RIDE LONGBOX RGB LOGO KEYLINE.svg"
+        },
+        "britishcycling:routePhotos": [],
+        "level": [ "Easygoing" ],
+        "location": {
+          "type": "Place",
+          "description": "Bath",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "addressLocality": "Bath",
+            "addressRegion": "Somerset",
+            "postalCode": "BA1 1NG",
+            "streetAddress": "City Centre  "
+          },
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 51.38089953,
+            "longitude": -2.35833635
+          },
+          "amenityFeature": [
+            {
+              "name": "Changing Rooms",
+              "type": "ChangingRooms",
+              "value": false
+            },
+            {
+              "name": "Public Toilets",
+              "type": "PublicToilets",
+              "value": false
+            },
+            { "name": "Parking", "type": "Parking", "value": false }
+          ]
+        },
+        "image": [],
+        "description": null,
+        "beta:formattedDescription": null,
+        "offers": [
+          {
+            "type": "Offer",
+            "url": "https://www.letsride.co.uk/rides/sky-ride-bath/book",
+            "price": "0"
+          }
+        ],
+        "isAccessibleForFree": true
+      }
+    },
+    {
+      "state": "updated",
+      "id": 314,
+      "kind": "event",
+      "modified": 10,
+      "data": {
+        "@context": [
+          "https://www.openactive.io/ns/oa.jsonld",
+          "https://www.openactive.io/ns-beta/oa.jsonld"
+        ],
+        "type": "Event",
+        "identifier": 314,
+        "url": "https://www.letsride.co.uk/rides/sky-ride-middlesbrough",
+        "activity": [
+          {
+            "id": "http://openactive.io/activity-list/#2a41c553-84be-4970-b3d0-42f9ef6bd9a4",
+            "prefLabel": "Road Cycling",
+            "type": "Concept",
+            "inScheme": "https://www.openactive.io/activity-list/activity-list.jsonld"
+          }
+        ],
+        "startDate": "2010-08-15T10:00:00+01:00",
+        "beta:attendeeCount": 0,
+        "beta:distance": { "type": "QuantitativeValue", "value": 30, "unitCode": "SMI" },
+        "name": "Sky Ride Middlesbrough",
+        "programme": {
+          "type": "Brand",
+          "identifier": "events",
+          "name": "HSBC UK Let’s Ride",
+          "description": "Let’s Ride events are fun days out where cyclists take over the streets of a town or city. Riding on roads normally full of cars is an unforgettable experience. There’s loads of other stuff going on too, from music and market stalls, to extreme cycling and competitions.",
+          "url": "https://lr.staging.phoenixdigital.agencyevents",
+          "logo": "https://lr-media.staging.phoenixdigital.agency/view/13462570c717276edddf28d1a0727d89/2018 LETS RIDE LONGBOX RGB LOGO KEYLINE.svg"
+        },
+        "britishcycling:routePhotos": [],
+        "level": [ "Easygoing" ],
+        "location": {
+          "type": "Place",
+          "description": "Middlesbrough",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "addressLocality": "Middlesborough",
+            "addressRegion": "Cleveland",
+            "postalCode": "TS4 3SA",
+            "streetAddress": "Middlesbrough Cycle Circuit Prissick Sports Hub"
+          },
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 54.54222064,
+            "longitude": -1.20942379
+          },
+          "amenityFeature": [
+            {
+              "name": "Changing Rooms",
+              "type": "ChangingRooms",
+              "value": false
+            },
+            {
+              "name": "Public Toilets",
+              "type": "PublicToilets",
+              "value": false
+            },
+            { "name": "Parking", "type": "Parking", "value": false }
+          ]
+        },
+        "image": [],
+        "description": null,
+        "beta:formattedDescription": null,
+        "offers": [
+          {
+            "type": "Offer",
+            "url": "https://www.letsride.co.uk/rides/sky-ride-middlesbrough/book",
+            "price": "0"
+          }
+        ],
+        "isAccessibleForFree": true
+      }
+    },
+    {
+      "state": "updated",
+      "id": 315,
+      "kind": "event",
+      "modified": 11,
+      "data": {
+        "@context": [
+          "https://www.openactive.io/ns/oa.jsonld",
+          "https://www.openactive.io/ns-beta/oa.jsonld"
+        ],
+        "type": "Event",
+        "identifier": 315,
+        "url": "https://www.letsride.co.uk/rides/sky-ride-bradford",
+        "activity": [
+          {
+            "id": "http://openactive.io/activity-list/#2a41c553-84be-4970-b3d0-42f9ef6bd9a4",
+            "prefLabel": "Road Cycling",
+            "type": "Concept",
+            "inScheme": "https://www.openactive.io/activity-list/activity-list.jsonld"
+          }
+        ],
+        "startDate": "2010-08-29T11:30:00+01:00",
+        "beta:attendeeCount": 0,
+        "beta:distance": { "type": "QuantitativeValue", "value": 30, "unitCode": "SMI" },
+        "name": "Sky Ride Bradford",
+        "programme": {
+          "type": "Brand",
+          "identifier": "events",
+          "name": "HSBC UK Let’s Ride",
+          "description": "Let’s Ride events are fun days out where cyclists take over the streets of a town or city. Riding on roads normally full of cars is an unforgettable experience. There’s loads of other stuff going on too, from music and market stalls, to extreme cycling and competitions.",
+          "url": "https://lr.staging.phoenixdigital.agencyevents",
+          "logo": "https://lr-media.staging.phoenixdigital.agency/view/13462570c717276edddf28d1a0727d89/2018 LETS RIDE LONGBOX RGB LOGO KEYLINE.svg"
+        },
+        "britishcycling:routePhotos": [],
+        "level": [ "Easygoing" ],
+        "location": {
+          "type": "Place",
+          "description": "Bradford",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "addressLocality": "Bradford",
+            "addressRegion": "West Yorkshire",
+            "postalCode": "BD3 0LP",
+            "streetAddress": "Peel Park Otley Road"
+          },
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 53.80573251,
+            "longitude": -1.7408684
+          },
+          "amenityFeature": [
+            {
+              "name": "Changing Rooms",
+              "type": "ChangingRooms",
+              "value": false
+            },
+            {
+              "name": "Public Toilets",
+              "type": "PublicToilets",
+              "value": false
+            },
+            { "name": "Parking", "type": "Parking", "value": false }
+          ]
+        },
+        "image": [],
+        "description": null,
+        "beta:formattedDescription": null,
+        "offers": [
+          {
+            "type": "Offer",
+            "url": "https://www.letsride.co.uk/rides/sky-ride-bradford/book",
+            "price": "0"
+          }
+        ],
+        "isAccessibleForFree": true
+      }
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}
