@@ -1,0 +1,64 @@
+{
+  "@context": "https://www.openactive.io/ns/oa.jsonld",
+  "type": "Event",
+  "identifier": 65218,
+  "programme": {
+    "type": "Brand",
+    "name": "Walking Netball",
+    "description": "Walking Netball has evolved from a growing demand for walking sports. Often, one of netball’s strengths is that people never forget playing the sport and the memories as well as the love for the game never leave.\r\n\r\nWalking Netball is a slower version of the game; it is netball, but at a walking pace. The game has been designed so that anyone can play it regardless of age or fitness level.\r\n\r\nFrom those who have dropped out of the sport they love due to serious injury, to those who believed they had hung up their netball trainers many years ago, it really is for everyone.\r\n\r\nWomen the length of the country have begun playing the game of Walking Netball for the fun, laughter and camaraderie the social session brings, as much as the health benefits on offer. It can give those who feel isolated an outlet, provide an activity for those who don’t deem themselves fit enough to run anymore and offer a stepping stone for those looking for a pathway back into netball.",
+    "logo": "https://www.englandnetball.co.uk/app/uploads/2016/04/Walking-Netball.jpg",
+    "url": "https://www.englandnetball.co.uk/my-game/walking-netball/",
+    "beta:video": "https://www.youtube.com/watch?v=qzQfnv7sFPg",
+    "category": "Coached Sessions",
+    "level": "Beginner"
+  },
+  "activity": {
+    "id": "https://www.openactive.io/activity-list/#aba839fb-5cd2-4042-b651-c09c86bce1e2",
+    "type": "Concept",
+    "prefLabel": "Walking Netball",
+    "inScheme": "https://www.openactive.io/activity-list/activity-list.jsonld"
+  },
+  "superEvent": {
+    "identifier": "WN005611",
+    "type": "Event",
+    "eventSchedule": { "type": "Schedule", "endDate": "2018-08-14", "frequency": "P1W" }
+  },
+  "eventStatus": "http://schema.org/EventScheduled",
+  "location": {
+    "type": "Place",
+    "name": "University of Worcester - St Johns Campus",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "Henwick Grove",
+      "addressLocality": "Worcester",
+      "addressRegion": "Worcestershire",
+      "postalCode": "WR2 6AJ",
+      "addressCountry": "GB"
+    },
+    "geo": {
+      "type": "GeoCoordinates",
+      "latitude": 52.1966307,
+      "longitude": -2.2437565
+    }
+  },
+  "startDate": "2018-04-10T10:00:00Z",
+  "endDate": "2018-04-10T11:00:00Z",
+  "duration": "PT1H",
+  "leader": {
+    "type": "Person",
+    "name": "Kristina Cartwright-Riley",
+    "telephone": "07506681228",
+    "email": "cark1_15@uni.worc.ac.uk"
+  },
+  "organizer": { "name": "England Netball", "url": "https://www.englandnetball.co.uk" },
+  "url": "https://www.englandnetball.co.uk/?pagename=session&sessionid=[65218&WN005611",
+  "sameAs": [],
+  "offer": [
+    {
+      "type": "Offer",
+      "name": "Full price cost",
+      "price": "3.00",
+      "priceCurrency": "GBP"
+    }
+  ]
+}
