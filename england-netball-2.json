@@ -1,0 +1,90 @@
+{
+  "@context": [
+    "https://openactive.io/",
+    "https://openactive.io/ns-beta"
+  ],
+  "type": "ScheduledSession",
+  "identifier": 71350,
+  "superEvent": {
+    "identifier": "WN006115",
+    "type": "SessionSeries",
+    "programme": {
+      "type": "Brand",
+      "name": "Walking Netball",
+      "description": "Walking Netball has evolved from a growing demand for walking sports. Often, one of netball’s strengths is that people never forget playing the sport and the memories as well as the love for the game never leave.\r\n\r\nWalking Netball is a slower version of the game; it is netball, but at a walking pace. The game has been designed so that anyone can play it regardless of age or fitness level.\r\n\r\nFrom those who have dropped out of the sport they love due to serious injury, to those who believed they had hung up their netball trainers many years ago, it really is for everyone.\r\n\r\nWomen the length of the country have begun playing the game of Walking Netball for the fun, laughter and camaraderie the social session brings, as much as the health benefits on offer. It can give those who feel isolated an outlet, provide an activity for those who don’t deem themselves fit enough to run anymore and offer a stepping stone for those looking for a pathway back into netball.",
+      "logo": {
+        "type": "ImageObject",
+        "url": "https://www.englandnetball.co.uk/app/uploads/2016/04/Walking-Netball.jpg"
+      },
+      "url": "https://www.englandnetball.co.uk/my-game/walking-netball/",
+      "beta:video": "https://www.youtube.com/watch?v=qzQfnv7sFPg"
+    },
+    "name": "Walking Netball",
+    "description": "Walking Netball has evolved from a growing demand for walking sports. Often, one of netball’s strengths is that people never forget playing the sport and the memories as well as the love for the game never leave.\r\n\r\nWalking Netball is a slower version of the game; it is netball, but at a walking pace. The game has been designed so that anyone can play it regardless of age or fitness level.\r\n\r\nFrom those who have dropped out of the sport they love due to serious injury, to those who believed they had hung up their netball trainers many years ago, it really is for everyone.\r\n\r\nWomen the length of the country have begun playing the game of Walking Netball for the fun, laughter and camaraderie the social session brings, as much as the health benefits on offer. It can give those who feel isolated an outlet, provide an activity for those who don’t deem themselves fit enough to run anymore and offer a stepping stone for those looking for a pathway back into netball.",
+    "activity": [
+      {
+        "id": "https://openactive.io/activity-list#aba839fb-5cd2-4042-b651-c09c86bce1e2",
+        "type": "Concept",
+        "prefLabel": "Walking Netball",
+        "inScheme": "https://openactive.io/activity-list"
+      }
+    ],
+    "category": [
+      {
+        "type": "Concept",
+        "prefLabel": "Coached Sessions"
+      }
+    ],
+    "level": [
+      "Beginner"
+    ],
+    "eventSchedule": {
+      "type": "Schedule",
+      "endDate": "2018-10-30",
+      "repeatFrequency": "P14D"
+    },
+    "organizer": {
+      "type": "Organization",
+      "name": "England Netball",
+      "url": "https://www.englandnetball.co.uk"
+    },
+    "sameAs": [
+      "https://www.facebook.com/southdurhamandclevelandnetball/",
+      " Netball In South Durham & Cleveland @NetballInSDandC"
+    ],
+    "location": {
+      "type": "Place",
+      "name": "Thornaby Pavillion",
+      "address": {
+        "type": "PostalAddress",
+        "postalCode": "TS17 9EW",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "type": "GeoCoordinates",
+        "latitude": 54.5386474,
+        "longitude": -1.290952
+      }
+    },
+    "offers": [
+      {
+        "type": "Offer",
+        "name": "Full price cost",
+        "price": 3.5,
+        "priceCurrency": "GBP"
+      }
+    ],
+    "leader": [
+      {
+        "type": "Person",
+        "name": "Liz James",
+        "email": "izziescissors@hotmail.co.uk"
+      }
+    ]
+  },
+  "eventStatus": "https://schema.org/EventScheduled",
+  "startDate": "2018-09-11T11:00:00Z",
+  "endDate": "2018-09-11T12:00:00Z",
+  "duration": "PT1H",
+  "url": "https://www.englandnetball.co.uk/?pagename=session&sessionid=[71350&WN006115"
+}
