@@ -1,0 +1,2140 @@
+{
+  "next": "https://openactive-turnpike.viewsapp.net/rpde/sessions?afterTimestamp=1556717985&afterId=30363739-3865-6235-6638-303734656162",
+  "items": [
+    {
+      "state": "updated",
+      "kind": "SessionSeries",
+      "id": "0a326335-3933-6436-3039-313734346634",
+      "modified": 1556012008,
+      "data": {
+        "@context": "https://openactive.io/",
+        "url": "https://openactive-turnpike.viewsapp.net/dashboard/sessionGroups/0a326335-3933-6436-3039-313734346634",
+        "id": "0a326335-3933-6436-3039-313734346634",
+        "type": "SessionSeries",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "activity": [
+          {
+            "id": "https://openactive.io/activity-list#72d19892-5f55-4e9c-87b0-a5433baa49c8",
+            "type": "Concept",
+            "notation": "angling",
+            "prefLabel": "Angling"
+          }
+        ],
+        "ageRange": {
+          "type": "QuantitativeValue",
+          "minValue": 10,
+          "maxValue": 29
+        },
+        "organizer": {
+          "type": "Organization",
+          "name": "Dev & Account",
+          "url": "https://www.example.org/",
+          "telephone": "1232434353543",
+          "sameAs": [
+            "https://www.twitter.com/everyoneactive/",
+            "https://www.facebook.com/everyoneactive/",
+            "https://www.linkdIn.com/everyoneactive/"
+          ]
+        },
+        "duration": "PT2H",
+        "name": "Session Group 110",
+        "description": "none",
+        "genderRestriction": "https://openactive.io/NoRestriction",
+        "leader": [
+          {
+            "type": "Person",
+            "name": "Forname 105122 Surname 105122"
+          }
+        ],
+        "location": {
+          "type": "Place",
+          "url": "https://www.openactive.io/",
+          "name": "Venue 407",
+          "description": "No description available",
+          "id": "0a373566-3333-3634-3737-643361346632",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "streetAddress": "Bexhill Road",
+            "addressLocality": "Sunderland",
+            "addressRegion": "Devon",
+            "postalCode": "PL9 0AU"
+          },
+          "telephone": "5536916",
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 50.320805219393,
+            "longitude": -4.0961987000256
+          }
+        },
+        "eventSchedule": [
+          {
+            "type": "PartialSchedule",
+            "startDate": "2015-12-11",
+            "endDate": "2015-12-11"
+          }
+        ],
+        "subEvent": [
+          {
+            "type": "ScheduledSession",
+            "startDate": "2015-12-11T12:01:00Z",
+            "endDate": "2015-12-11T14:01:00Z",
+            "maximumAttendeeCapacity": 15,
+            "remainingAttendeeCapacity": 15,
+            "id": "bafed2cd-2f4e-4589-a263-f60fe4601a60"
+          }
+        ],
+        "offers": [
+          {
+            "type": "Offer",
+            "price": 0,
+            "priceCurrency": "GBP",
+            "identifier": "STAND",
+            "ageRange": {
+              "type": "QuantitativeValue",
+              "minValue": 10,
+              "maxValue": 29
+            }
+          }
+        ],
+        "isAccessibleForFree": true
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "SessionSeries",
+      "id": "0a323234-3938-6563-3637-323764343539",
+      "modified": 1556716805,
+      "data": {
+        "@context": "https://openactive.io/",
+        "url": "https://openactive-turnpike.viewsapp.net/dashboard/sessionGroups/0a323234-3938-6563-3637-323764343539",
+        "id": "0a323234-3938-6563-3637-323764343539",
+        "type": "SessionSeries",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "activity": [
+          {
+            "id": "https://openactive.io/activity-list#b885f4f6-2242-4d11-9466-065d60402624",
+            "type": "Concept",
+            "notation": "bowls",
+            "prefLabel": "Bowls"
+          }
+        ],
+        "category": [
+          "Bowls Category"
+        ],
+        "organizer": {
+          "type": "Organization",
+          "name": "Brentford FC Community Sports Trust",
+          "url": "https://www.Brentford.test",
+          "telephone": "0161123456780",
+          "sameAs": [
+            "https://www.twitter.com/everyoneactive/",
+            "https://www.facebook.com/everyoneactive/",
+            "https://www.linkdIn.com/everyoneactive/"
+          ]
+        },
+        "duration": "PT5H",
+        "name": "Short Breaks - Multi Sport - Feltham Community College - 2010-2016",
+        "description": "Multi-sport activities for disabled children during school holidays",
+        "genderRestriction": "https://openactive.io/NoRestriction",
+        "leader": [
+          {
+            "type": "Person",
+            "name": "Chris Tribe"
+          }
+        ],
+        "location": {
+          "type": "Place",
+          "url": "https://www.openactive.io/",
+          "name": "Springwest Academy ",
+          "description": "No description available",
+          "id": "0a353231-6436-6236-3232-633939346438",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "streetAddress": "Browells Lane",
+            "addressLocality": "Feltham",
+            "addressRegion": "Greater London",
+            "postalCode": "TW13 7EF"
+          },
+          "telephone": "020 8831 3032",
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 51.44235769523,
+            "longitude": -0.39976320847839
+          }
+        },
+        "eventSchedule": [
+          {
+            "type": "PartialSchedule",
+            "startDate": "2010-06-01",
+            "endDate": "2016-09-02"
+          }
+        ],
+        "subEvent": [
+          {
+            "type": "ScheduledSession",
+            "startDate": "2010-06-01T10:00:00Z",
+            "endDate": "2010-06-01T12:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "91669014-4c7e-45ae-8fa0-cedb3ac58d6c"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2010-08-12T10:00:00Z",
+            "endDate": "2010-08-12T12:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "141ce329-820a-4e98-b98e-2f7ec57a90e3"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2010-08-17T10:00:00Z",
+            "endDate": "2010-08-17T12:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "438b4570-cb6a-4ae6-99fc-8ea8e051ef24"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2010-08-19T10:00:00Z",
+            "endDate": "2010-08-19T12:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "e23d81f7-3a8c-47f2-95ec-171d78432b5f"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2010-08-24T10:00:00Z",
+            "endDate": "2010-08-24T12:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "37895ff2-62ea-4461-91e4-6ff2536b4444"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2010-09-26T10:00:00Z",
+            "endDate": "2010-09-26T12:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "d8f7395f-3b73-48c0-8768-6451620ccd16"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2010-11-03T00:00:00Z",
+            "endDate": "2010-11-03T01:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "eaad7ac3-6af1-4cc7-9806-a79fa8154651"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2011-04-11T10:00:00Z",
+            "endDate": "2011-04-11T12:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "858bf6d2-28ee-42af-b620-55b9861efdd5"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2011-04-18T10:00:00Z",
+            "endDate": "2011-04-18T13:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "fe759291-0a0e-4ee9-ad53-8407977cdca1"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2011-05-31T10:00:00Z",
+            "endDate": "2011-05-31T13:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "704e6de3-f5ca-41ea-8954-7a2c2a870d18"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2011-07-25T10:00:00Z",
+            "endDate": "2011-07-25T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "02ccf714-c5da-4c8b-b790-621e56e0c173"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2011-07-28T10:00:00Z",
+            "endDate": "2011-07-28T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "f44f9028-b0bc-4047-b114-e09d2231ec0a"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2011-08-08T10:00:00Z",
+            "endDate": "2011-08-08T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "6bae53fa-e62a-46b0-8ccd-b254285e9ad8"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2011-08-11T10:00:00Z",
+            "endDate": "2011-08-11T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "613430e7-99e4-4c34-8985-d24ff329a31f"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2011-10-24T10:00:00Z",
+            "endDate": "2011-10-24T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "0f3828ab-0bae-45c5-a86d-17f2d7aa2748"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2011-10-25T10:00:00Z",
+            "endDate": "2011-10-25T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "24ca27d9-c83b-4fcd-af86-c2a7813a2866"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2012-02-13T10:00:00Z",
+            "endDate": "2012-02-13T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "8e50fa74-d20d-4ab7-a7b8-706310093f93"
+          },
+          {
+            "type": "CancelledSession",
+            "startDate": "2012-02-14T10:00:00Z",
+            "endDate": "2012-02-14T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "4b56c1ec-7731-4681-af48-a64d86df36d1"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2012-04-02T10:00:00Z",
+            "endDate": "2012-04-02T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "9e17e364-d2d8-4cb8-97bb-033c81f12e7a"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2012-04-03T10:00:00Z",
+            "endDate": "2012-04-03T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "a2f4e9f4-cdae-4ed5-a251-3a8d6af7cf08"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2012-04-10T10:00:00Z",
+            "endDate": "2012-04-10T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "e9ec8bfb-ee63-4599-927a-fcd4782d1bd4"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2012-04-13T10:00:00Z",
+            "endDate": "2012-04-13T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "b639d4e6-4351-4839-adac-3636a65a85a3"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2012-06-06T10:00:00Z",
+            "endDate": "2012-06-06T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "8aea443d-24b6-484e-aa9c-ca7a003749c5"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2012-08-10T10:00:00Z",
+            "endDate": "2012-08-10T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "71fce5db-c545-4453-988b-1a7a08fdc459"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2012-08-14T10:00:00Z",
+            "endDate": "2012-08-14T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "e5de1b30-2aa9-4d95-9b66-75ae87ae6ea0"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2012-08-17T10:00:00Z",
+            "endDate": "2012-08-17T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "70b2685f-c832-4a6c-a1a7-ee9327c8bf3f"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2012-08-28T10:00:00Z",
+            "endDate": "2012-08-28T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "5764834f-2e61-4bd3-bd30-1b043266a76e"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2012-10-30T10:00:00Z",
+            "endDate": "2012-10-30T12:30:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "d67b4309-bdc8-42fa-8227-083f9f5af81c"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2012-11-02T10:00:00Z",
+            "endDate": "2012-11-02T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "018fc2ba-cca3-498e-95cf-9d11605c53d0"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2013-02-18T10:00:00Z",
+            "endDate": "2013-02-18T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "b4803e08-a586-4920-ad6e-a27c8325ad0d"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2013-02-22T10:00:00Z",
+            "endDate": "2013-02-22T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "4a68a2cc-fe2f-4a7b-a287-c0575c9ed027"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2013-04-05T10:00:00Z",
+            "endDate": "2013-04-05T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "275565af-08c4-4397-b121-c0731cb80a11"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2013-04-08T10:00:00Z",
+            "endDate": "2013-04-08T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "be729ed5-0d23-444a-a7c1-b954ce253e05"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2013-04-12T10:00:00Z",
+            "endDate": "2013-04-12T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "f063413c-52fd-4702-8e83-aee750e24247"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2013-05-31T10:00:00Z",
+            "endDate": "2013-05-31T15:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "e9849a00-8d2b-4bd1-b813-6b1946d6c10d"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2013-08-06T10:00:00Z",
+            "endDate": "2013-08-06T15:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "dc6a285b-d13f-4cc5-959d-b18bae5ab2e9"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2013-08-16T10:00:00Z",
+            "endDate": "2013-08-16T15:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "be41a22b-81d8-4752-a172-7cfb650638ca"
+          },
+          {
+            "type": "CancelledSession",
+            "startDate": "2013-08-23T10:00:00Z",
+            "endDate": "2013-08-23T15:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "456ab91a-71ed-4e29-972c-0aa7b825731c"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2013-08-30T10:00:00Z",
+            "endDate": "2013-08-30T15:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "a03a6427-d893-465c-be56-0692756b40ad"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2013-10-28T10:00:00Z",
+            "endDate": "2013-10-28T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "bfedef25-9bdb-4a6e-baa4-8b655cf451f2"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2013-11-01T10:00:00Z",
+            "endDate": "2013-11-01T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "fe1088bb-9dc8-4ee7-9ed0-ae7efc17177e"
+          },
+          {
+            "type": "CancelledSession",
+            "startDate": "2014-01-03T10:00:00Z",
+            "endDate": "2014-01-03T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "11a4c0b1-c160-4b18-b8be-5333ca64420c"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2014-02-17T10:00:00Z",
+            "endDate": "2014-02-17T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "a22b138f-e2d9-46a5-b2a3-f7d819a4866c"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2014-02-21T10:00:00Z",
+            "endDate": "2014-02-21T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "98a08de0-26d2-406c-9e50-e185bf0a1ca1"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2014-04-07T10:00:00Z",
+            "endDate": "2014-04-07T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "97eb72cc-7db8-4bc7-9000-e1ad6ad02cc1"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2014-04-11T10:00:00Z",
+            "endDate": "2014-04-11T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "1f773a05-f3e3-4084-ad06-c28e57e7ccef"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2014-04-14T10:00:00Z",
+            "endDate": "2014-04-14T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "6931141d-e3fe-468a-804c-f5ce31540106"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2014-05-30T10:00:00Z",
+            "endDate": "2014-05-30T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "caee39d8-1d4f-46a0-b907-36a972eda0f2"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2014-08-04T10:00:00Z",
+            "endDate": "2014-08-04T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "f68a633e-4859-41c0-acaf-2177744122a8"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2014-08-11T10:00:00Z",
+            "endDate": "2014-08-11T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "6362572e-89af-4699-bd78-5810f356ff56"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2014-08-18T10:00:00Z",
+            "endDate": "2014-08-18T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "e1a0edc2-5807-496b-b92e-fb265d159b68"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2014-08-29T10:00:00Z",
+            "endDate": "2014-08-29T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "94f73fb1-6f61-41f5-b9cd-9fcbe7066749"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2014-10-27T10:00:00Z",
+            "endDate": "2014-10-27T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "8b24a10c-0c86-4545-b415-675edc798bab"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2014-10-31T10:00:00Z",
+            "endDate": "2014-10-31T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "b07f4dd7-b364-4eb8-84cd-b93b34eff7c1"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2014-12-22T10:00:00Z",
+            "endDate": "2014-12-22T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "7a458a68-ebfa-4f13-b48c-198d2d33301d"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2015-02-16T10:00:00Z",
+            "endDate": "2015-02-16T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "cfd63af3-9365-4bb3-8989-215e0e0c40d5"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2015-02-20T10:00:00Z",
+            "endDate": "2015-02-20T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "cef9b913-6b6c-4b9f-97a8-8dbb82da3151"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2015-03-30T10:00:00Z",
+            "endDate": "2015-03-30T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "66c13b7e-5cb2-4b08-8cce-bfee93abe881"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2015-04-07T10:00:00Z",
+            "endDate": "2015-04-07T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "7a119019-d6e2-46e5-aeb1-33850d81a82a"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2015-04-10T10:00:00Z",
+            "endDate": "2015-04-10T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "b824a182-1692-4b0c-b654-d682d3eb7269"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2015-05-29T10:00:00Z",
+            "endDate": "2015-05-29T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "da8ecd0c-b6d4-4ec1-8c76-2d8ebfb821aa"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2015-07-27T10:00:00Z",
+            "endDate": "2015-07-27T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "4dfb7f99-2de5-441c-8a4d-088f9d0290a7"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2015-08-03T10:00:00Z",
+            "endDate": "2015-08-03T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "0033fd3a-3b4d-4d37-8af5-8277a021c53f"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2015-08-07T10:00:00Z",
+            "endDate": "2015-08-07T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "5552bc73-e1be-43ff-96e4-3dddee36e1ee"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2015-08-10T10:00:00Z",
+            "endDate": "2015-08-10T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "05052a98-d298-4410-beaa-453cb956d238"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2015-08-24T10:00:00Z",
+            "endDate": "2015-08-24T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "6707cea6-0c9d-478e-ba6a-bd49ec5fe229"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2015-08-25T10:00:00Z",
+            "endDate": "2015-08-25T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "a860d61b-dac0-4edc-97c9-5007a11938a9"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2015-10-26T10:00:00Z",
+            "endDate": "2015-10-26T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "6be26cc6-ff1e-4db3-a751-9f8a8a52a6f9"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2015-10-30T10:00:00Z",
+            "endDate": "2015-10-30T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "ea8cf030-b379-485e-96ce-3b8823b0e9bd"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2015-12-21T10:00:00Z",
+            "endDate": "2015-12-21T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "5934e8ef-1b17-4964-8e0c-aa0d0a426cb0"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2016-02-15T10:00:00Z",
+            "endDate": "2016-02-15T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "517950bb-4f7e-4298-9310-74f2d7c7ffcb"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2016-04-01T10:00:00Z",
+            "endDate": "2016-04-01T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "e1f0befd-f3af-4c73-bb21-590fa6bfafbd"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2016-04-08T10:00:00Z",
+            "endDate": "2016-04-08T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "84de25f6-19e1-4c39-9855-0ac03591d63c"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2016-06-03T10:00:00Z",
+            "endDate": "2016-06-03T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "0ea78a04-b3ab-46c4-aeaa-9e4adb617e11"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2016-07-29T10:00:00Z",
+            "endDate": "2016-07-29T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "32347401-a178-42ef-9ec3-56a0fd946336"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2016-08-08T10:00:00Z",
+            "endDate": "2016-08-08T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "391ad653-d4b2-4fce-981d-a9d09d497c79"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2016-08-15T10:00:00Z",
+            "endDate": "2016-08-15T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "f71a5bd3-1d1b-4c2c-9f6a-df3b1949c0b8"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2016-08-19T10:00:00Z",
+            "endDate": "2016-08-19T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "9a02e38e-24e3-421a-babc-f8c42bff83ff"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2016-08-26T10:00:00Z",
+            "endDate": "2016-08-26T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "58fe9127-e6ec-487b-a653-71ac0a05751e"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2016-09-02T10:00:00Z",
+            "endDate": "2016-09-02T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "b189a136-5528-47a5-adc1-c5d9938c67b5"
+          }
+        ],
+        "offers": [
+          {
+            "type": "Offer",
+            "price": 6,
+            "priceCurrency": "GBP",
+            "identifier": "STAND",
+            "ageRange": {
+              "type": "QuantitativeValue",
+              "minValue": 0,
+              "maxValue": 0
+            }
+          }
+        ],
+        "isAccessibleForFree": false
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "SessionSeries",
+      "id": "0a333036-3566-6235-6563-313363346163",
+      "modified": 1556716814,
+      "data": {
+        "@context": "https://openactive.io/",
+        "url": "https://openactive-turnpike.viewsapp.net/dashboard/sessionGroups/0a333036-3566-6235-6563-313363346163",
+        "id": "0a333036-3566-6235-6563-313363346163",
+        "type": "SessionSeries",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "activity": [
+          {
+            "id": "https://openactive.io/activity-list#0a5f732d-e806-4e51-ad40-0a7de0239c8c",
+            "type": "Concept",
+            "notation": "football",
+            "prefLabel": "Football"
+          }
+        ],
+        "ageRange": {
+          "type": "QuantitativeValue",
+          "minValue": 5,
+          "maxValue": 14
+        },
+        "organizer": {
+          "type": "Organization",
+          "name": "Dev & Account",
+          "url": "https://www.example.org/",
+          "telephone": "1232434353543",
+          "sameAs": [
+            "https://www.twitter.com/everyoneactive/",
+            "https://www.facebook.com/everyoneactive/",
+            "https://www.linkdIn.com/everyoneactive/"
+          ]
+        },
+        "duration": "PT4H",
+        "name": "New Session Group 3",
+        "description": "This is my 3rd New Session Group",
+        "genderRestriction": "https://openactive.io/NoRestriction",
+        "leader": [
+          {
+            "type": "Person",
+            "name": "Forname 1987 Surname 1987"
+          }
+        ],
+        "location": {
+          "type": "Place",
+          "url": "https://www.openactive.io/",
+          "name": "Venue 24",
+          "description": "No description available",
+          "id": "0a626464-3764-6364-3437-646438346162",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "streetAddress": "Marine Drive",
+            "addressLocality": "Hebburn",
+            "addressRegion": "Tyne and Wear",
+            "postalCode": "NE31 2AX"
+          },
+          "telephone": "0191 4894771",
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 54.96423726699,
+            "longitude": -1.4993201074672
+          }
+        },
+        "eventSchedule": [
+          {
+            "type": "PartialSchedule",
+            "startDate": "2019-06-12",
+            "endDate": "2019-09-17"
+          }
+        ],
+        "subEvent": [
+          {
+            "type": "CancelledSession",
+            "startDate": "2019-06-12T12:00:00Z",
+            "endDate": "2019-06-12T14:00:00Z",
+            "maximumAttendeeCapacity": 44,
+            "remainingAttendeeCapacity": 44,
+            "id": "34f296bc-01df-431f-adb9-25f278e90042"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2019-09-17T14:00:00Z",
+            "endDate": "2019-09-17T18:00:00Z",
+            "maximumAttendeeCapacity": 44,
+            "remainingAttendeeCapacity": 44,
+            "id": "e308ef91-88bc-4580-9a30-7747e2918b3f"
+          }
+        ],
+        "offers": [
+          {
+            "type": "Offer",
+            "price": 6,
+            "priceCurrency": "GBP",
+            "identifier": "STAND",
+            "ageRange": {
+              "type": "QuantitativeValue",
+              "minValue": 5,
+              "maxValue": 14
+            }
+          }
+        ],
+        "isAccessibleForFree": false
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "SessionSeries",
+      "id": "0a353836-3963-3061-6138-356232346136",
+      "modified": 1556716819,
+      "data": {
+        "@context": "https://openactive.io/",
+        "url": "https://openactive-turnpike.viewsapp.net/dashboard/sessionGroups/0a353836-3963-3061-6138-356232346136",
+        "id": "0a353836-3963-3061-6138-356232346136",
+        "type": "SessionSeries",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "activity": [
+          {
+            "id": "https://openactive.io/activity-list#d4417bb3-383f-489b-b0c7-731b82f3b220",
+            "type": "Concept",
+            "notation": "boxing",
+            "prefLabel": "Boxing"
+          }
+        ],
+        "category": [
+          "Sport"
+        ],
+        "organizer": {
+          "type": "Organization",
+          "name": "Bolton Lads and Girls Club",
+          "url": "http://BoltonLads.com",
+          "telephone": "486543765843",
+          "sameAs": [
+            "http://twitter.com",
+            "http://facebook.com",
+            "http://linkedin.com"
+          ]
+        },
+        "duration": "PT1H",
+        "name": "Babs Activity",
+        "genderRestriction": "https://openactive.io/NoRestriction",
+        "leader": [
+          {
+            "type": "Person",
+            "name": "Claire Stabler"
+          }
+        ],
+        "location": {
+          "type": "Place",
+          "url": "https://www.openactive.io/",
+          "name": "BLGC - Arranged trip",
+          "description": "No description available",
+          "id": "5a8481b1-eff8-4673-b164-515de6f42c36",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "streetAddress": "unknown",
+            "addressLocality": "unknown",
+            "addressRegion": "Greater Manchester",
+            "postalCode": "M1 5FW"
+          },
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 53.475243797955,
+            "longitude": -2.2418454766383
+          }
+        },
+        "eventSchedule": [
+          {
+            "type": "PartialSchedule",
+            "startDate": "2017-05-09",
+            "endDate": "2017-05-09"
+          }
+        ],
+        "subEvent": [
+          {
+            "type": "ScheduledSession",
+            "startDate": "2017-05-09T12:00:00Z",
+            "endDate": "2017-05-09T13:00:00Z",
+            "id": "f7138a0a-4537-4599-91dd-4a0b238b8b09"
+          }
+        ],
+        "offers": [
+          {
+            "type": "Offer",
+            "price": 6,
+            "priceCurrency": "GBP"
+          }
+        ],
+        "isAccessibleForFree": false
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "SessionSeries",
+      "id": "0a316337-6262-3164-3437-316637346537",
+      "modified": 1556717922,
+      "data": {
+        "@context": "https://openactive.io/",
+        "url": "https://openactive-turnpike.viewsapp.net/dashboard/sessionGroups/0a316337-6262-3164-3437-316637346537",
+        "id": "0a316337-6262-3164-3437-316637346537",
+        "type": "SessionSeries",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "activity": [
+          {
+            "id": "https://openactive.io/activity-list#0a5f732d-e806-4e51-ad40-0a7de0239c8c",
+            "type": "Concept",
+            "notation": "football",
+            "prefLabel": "Football"
+          }
+        ],
+        "ageRange": {
+          "type": "QuantitativeValue",
+          "minValue": 12,
+          "maxValue": 18
+        },
+        "organizer": {
+          "type": "Organization",
+          "name": "Dev & Account",
+          "url": "https://www.example.org/",
+          "telephone": "1232434353543",
+          "sameAs": [
+            "https://www.twitter.com/everyoneactive/",
+            "https://www.facebook.com/everyoneactive/",
+            "https://www.linkdIn.com/everyoneactive/"
+          ]
+        },
+        "duration": "PT2H30M",
+        "name": "my second session group",
+        "description": "this is my second session group",
+        "genderRestriction": "https://openactive.io/NoRestriction",
+        "leader": [
+          {
+            "type": "Person",
+            "name": "Forname 1567 Surname 1567"
+          }
+        ],
+        "location": {
+          "type": "Place",
+          "url": "https://www.openactive.io/",
+          "name": "Venue 107",
+          "description": "No description available",
+          "id": "0a663731-6365-3763-3762-303038343736",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "streetAddress": "Chilton",
+            "addressLocality": "Ferryhill",
+            "addressRegion": "Durham",
+            "postalCode": "DL17 0PT"
+          },
+          "telephone": "01388 720255",
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 54.659181995246,
+            "longitude": -1.5552155851364
+          }
+        },
+        "eventSchedule": [
+          {
+            "type": "PartialSchedule",
+            "startDate": "2019-04-11",
+            "endDate": "2019-04-23"
+          }
+        ],
+        "subEvent": [
+          {
+            "type": "ScheduledSession",
+            "startDate": "2019-04-11T12:00:00Z",
+            "endDate": "2019-04-11T13:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "59b3f4ba-5399-4c92-a197-66c766d8edc7"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2019-04-23T12:00:00Z",
+            "endDate": "2019-04-23T14:30:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "0b2f669d-3655-408f-8c9d-e1c51916a2cc"
+          }
+        ],
+        "offers": [
+          {
+            "type": "Offer",
+            "price": 12,
+            "priceCurrency": "GBP",
+            "identifier": "STAND",
+            "ageRange": {
+              "type": "QuantitativeValue",
+              "minValue": 12,
+              "maxValue": 18
+            }
+          }
+        ],
+        "isAccessibleForFree": false
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "SessionSeries",
+      "id": "0a336637-6663-3562-3137-363061346531",
+      "modified": 1556717936,
+      "data": {
+        "@context": "https://openactive.io/",
+        "url": "https://openactive-turnpike.viewsapp.net/dashboard/sessionGroups/0a336637-6663-3562-3137-363061346531",
+        "id": "0a336637-6663-3562-3137-363061346531",
+        "type": "SessionSeries",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "activity": [
+          {
+            "id": "https://openactive.io/activity-list#0a5f732d-e806-4e51-ad40-0a7de0239c8c",
+            "type": "Concept",
+            "notation": "football",
+            "prefLabel": "Football"
+          }
+        ],
+        "ageRange": {
+          "type": "QuantitativeValue",
+          "minValue": 12,
+          "maxValue": 29
+        },
+        "organizer": {
+          "type": "Organization",
+          "name": "Dev & Account",
+          "url": "https://www.example.org/",
+          "telephone": "1232434353543",
+          "sameAs": [
+            "https://www.twitter.com/everyoneactive/",
+            "https://www.facebook.com/everyoneactive/",
+            "https://www.linkdIn.com/everyoneactive/"
+          ]
+        },
+        "duration": "PT1H",
+        "name": "Session Group 90",
+        "description": "srg",
+        "genderRestriction": "https://openactive.io/NoRestriction",
+        "leader": [
+          {
+            "type": "Person",
+            "name": "[anonymised: Forename] [anonymised: Surname]"
+          }
+        ],
+        "location": {
+          "type": "Place",
+          "url": "https://www.openactive.io/",
+          "name": "Venue 159",
+          "description": "No description available",
+          "id": "0a326431-6461-3062-3863-336630343864",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "streetAddress": "Moorlands",
+            "addressLocality": "Blackhill ",
+            "addressRegion": "Durham",
+            "postalCode": "DH8 0JX"
+          },
+          "telephone": "01207 591369",
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 54.862739550855,
+            "longitude": -1.8517462254585
+          }
+        },
+        "eventSchedule": [
+          {
+            "type": "PartialSchedule",
+            "startDate": "2013-01-02",
+            "endDate": "2013-01-11"
+          }
+        ],
+        "subEvent": [
+          {
+            "type": "ScheduledSession",
+            "startDate": "2013-01-02T12:00:00Z",
+            "endDate": "2013-01-02T13:00:00Z",
+            "maximumAttendeeCapacity": 15,
+            "remainingAttendeeCapacity": 15,
+            "id": "757da09a-2e58-4a5a-a839-b8141262329c"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2013-01-11T12:00:00Z",
+            "endDate": "2013-01-11T13:00:00Z",
+            "maximumAttendeeCapacity": 15,
+            "remainingAttendeeCapacity": 15,
+            "id": "21c00c19-cbb5-447c-be13-f658b64cd08c"
+          }
+        ],
+        "offers": [
+          {
+            "type": "Offer",
+            "price": 0,
+            "priceCurrency": "GBP",
+            "identifier": "STAND",
+            "ageRange": {
+              "type": "QuantitativeValue",
+              "minValue": 12,
+              "maxValue": 29
+            }
+          }
+        ],
+        "isAccessibleForFree": true
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "SessionSeries",
+      "id": "0a366537-3963-3466-3035-313433343561",
+      "modified": 1556717948,
+      "data": {
+        "@context": "https://openactive.io/",
+        "url": "https://openactive-turnpike.viewsapp.net/dashboard/sessionGroups/0a366537-3963-3466-3035-313433343561",
+        "id": "0a366537-3963-3466-3035-313433343561",
+        "type": "SessionSeries",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "activity": [
+          {
+            "id": "https://openactive.io/activity-list#0a5f732d-e806-4e51-ad40-0a7de0239c8c",
+            "type": "Concept",
+            "notation": "football",
+            "prefLabel": "Football"
+          }
+        ],
+        "ageRange": {
+          "type": "QuantitativeValue",
+          "minValue": 12,
+          "maxValue": 29
+        },
+        "organizer": {
+          "type": "Organization",
+          "name": "Dev & Account",
+          "url": "https://www.example.org/",
+          "telephone": "1232434353543",
+          "sameAs": [
+            "https://www.twitter.com/everyoneactive/",
+            "https://www.facebook.com/everyoneactive/",
+            "https://www.linkdIn.com/everyoneactive/"
+          ]
+        },
+        "duration": "PT1H",
+        "name": "New Session Group 2",
+        "description": "This is my 2nd New Session Group",
+        "genderRestriction": "https://openactive.io/NoRestriction",
+        "leader": [
+          {
+            "type": "Person",
+            "name": "Forname 381 Surname 381"
+          }
+        ],
+        "location": {
+          "type": "Place",
+          "url": "https://www.openactive.io/",
+          "name": "BLGC - Barlow Park",
+          "description": "No description available",
+          "id": "2c40f145-5489-43e6-abe6-c44fa1ccffac",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "streetAddress": "unknown",
+            "addressLocality": "unknown",
+            "addressRegion": "Greater Manchester",
+            "postalCode": "M15FW"
+          },
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 54.952318455955,
+            "longitude": -1.4881623703447
+          }
+        },
+        "eventSchedule": [
+          {
+            "type": "PartialSchedule",
+            "startDate": "2019-07-30",
+            "endDate": "2019-07-30"
+          }
+        ],
+        "subEvent": [
+          {
+            "type": "ScheduledSession",
+            "startDate": "2019-07-30T12:00:00Z",
+            "endDate": "2019-07-30T13:00:00Z",
+            "maximumAttendeeCapacity": 33,
+            "remainingAttendeeCapacity": 33,
+            "id": "606d82cc-ced3-452a-a323-e10027640f95"
+          }
+        ],
+        "offers": [
+          {
+            "type": "Offer",
+            "price": 8,
+            "priceCurrency": "GBP",
+            "identifier": "STAND",
+            "ageRange": {
+              "type": "QuantitativeValue",
+              "minValue": 12,
+              "maxValue": 29
+            }
+          }
+        ],
+        "isAccessibleForFree": false
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "SessionSeries",
+      "id": "0a366537-3963-3466-3035-313433343561",
+      "modified": 1556717948,
+      "data": {
+        "@context": "https://openactive.io/",
+        "url": "https://openactive-turnpike.viewsapp.net/dashboard/sessionGroups/0a366537-3963-3466-3035-313433343561",
+        "id": "0a366537-3963-3466-3035-313433343561",
+        "type": "SessionSeries",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "activity": [
+          {
+            "id": "https://openactive.io/activity-list#0a5f732d-e806-4e51-ad40-0a7de0239c8c",
+            "type": "Concept",
+            "notation": "football",
+            "prefLabel": "Football"
+          }
+        ],
+        "ageRange": {
+          "type": "QuantitativeValue",
+          "minValue": 12,
+          "maxValue": 29
+        },
+        "organizer": {
+          "type": "Organization",
+          "name": "Dev & Account",
+          "url": "https://www.example.org/",
+          "telephone": "1232434353543",
+          "sameAs": [
+            "https://www.twitter.com/everyoneactive/",
+            "https://www.facebook.com/everyoneactive/",
+            "https://www.linkdIn.com/everyoneactive/"
+          ]
+        },
+        "duration": "PT1H",
+        "name": "New Session Group 2",
+        "description": "This is my 2nd New Session Group",
+        "genderRestriction": "https://openactive.io/NoRestriction",
+        "leader": [
+          {
+            "type": "Person",
+            "name": "Forname 381 Surname 381"
+          }
+        ],
+        "location": {
+          "type": "Place",
+          "url": "https://www.openactive.io/",
+          "name": "Venue 14",
+          "description": "No description available",
+          "id": "30313463-6237-3139-3931-306634383862",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "streetAddress": "Oxford Way",
+            "addressLocality": "Jarrow",
+            "addressRegion": "Tyne and Wear",
+            "postalCode": "NE32 4XA"
+          },
+          "telephone": "0191 4894801",
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 54.952318455955,
+            "longitude": -1.4881623703447
+          }
+        },
+        "eventSchedule": [
+          {
+            "type": "PartialSchedule",
+            "startDate": "2019-07-30",
+            "endDate": "2019-07-30"
+          }
+        ],
+        "subEvent": [
+          {
+            "type": "ScheduledSession",
+            "startDate": "2019-07-30T12:00:00Z",
+            "endDate": "2019-07-30T13:00:00Z",
+            "maximumAttendeeCapacity": 33,
+            "remainingAttendeeCapacity": 33,
+            "id": "606d82cc-ced3-452a-a323-e10027640f95"
+          }
+        ],
+        "offers": [
+          {
+            "type": "Offer",
+            "price": 8,
+            "priceCurrency": "GBP",
+            "identifier": "STAND",
+            "ageRange": {
+              "type": "QuantitativeValue",
+              "minValue": 12,
+              "maxValue": 29
+            }
+          }
+        ],
+        "isAccessibleForFree": false
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "SessionSeries",
+      "id": "0a383564-3436-6332-3737-343834343639",
+      "modified": 1556717953,
+      "data": {
+        "@context": "https://openactive.io/",
+        "url": "https://openactive-turnpike.viewsapp.net/dashboard/sessionGroups/0a383564-3436-6332-3737-343834343639",
+        "id": "0a383564-3436-6332-3737-343834343639",
+        "type": "SessionSeries",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "activity": [
+          {
+            "id": "https://openactive.io/activity-list#0a5f732d-e806-4e51-ad40-0a7de0239c8c",
+            "type": "Concept",
+            "notation": "football",
+            "prefLabel": "Football"
+          }
+        ],
+        "ageRange": {
+          "type": "QuantitativeValue",
+          "minValue": 17,
+          "maxValue": 55
+        },
+        "organizer": {
+          "type": "Organization",
+          "name": "Dev & Account",
+          "url": "https://www.example.org/",
+          "telephone": "1232434353543",
+          "sameAs": [
+            "https://www.twitter.com/everyoneactive/",
+            "https://www.facebook.com/everyoneactive/",
+            "https://www.linkdIn.com/everyoneactive/"
+          ]
+        },
+        "duration": "PT1H",
+        "name": "Session Group 7",
+        "description": "reg adasd",
+        "genderRestriction": "https://openactive.io/NoRestriction",
+        "leader": [
+          {
+            "type": "Person",
+            "name": "John Doe"
+          }
+        ],
+        "location": {
+          "type": "Place",
+          "url": "https://www.openactive.io/",
+          "name": "Venue 57",
+          "description": "No description available",
+          "id": "0a333333-3463-3566-6464-383861343661",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "streetAddress": "New Road",
+            "addressLocality": "Boldon Colliery",
+            "addressRegion": "Tyne and Wear",
+            "postalCode": "NE35 9DZ"
+          },
+          "telephone": "0191 5362176",
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 54.949163079917,
+            "longitude": -1.4469328349052
+          }
+        },
+        "eventSchedule": [
+          {
+            "type": "PartialSchedule",
+            "startDate": "2011-03-03",
+            "endDate": "2019-04-29"
+          }
+        ],
+        "subEvent": [
+          {
+            "type": "ScheduledSession",
+            "startDate": "2011-03-03T12:00:00Z",
+            "endDate": "2011-03-03T13:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "fd8c9383-8e58-406e-890d-b85a32863ab6"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2011-04-27T12:00:00Z",
+            "endDate": "2011-04-27T13:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "6b806834-d729-4d00-9d7f-567064ff5967"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2011-06-24T13:00:00Z",
+            "endDate": "2011-06-24T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "ce261be6-0f27-4fed-8017-eba416f889f0"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2012-06-05T13:00:00Z",
+            "endDate": "2012-06-05T14:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "dc8268e7-2d02-49ca-8f11-d03f0ff0c07d"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2012-06-05T12:00:00Z",
+            "endDate": "2012-06-05T13:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "e3a93fe9-bebe-493c-a904-921168999cf9"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2012-06-06T12:00:00Z",
+            "endDate": "2012-06-06T13:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "d7086890-f2b2-42a0-accc-26c6179dbc01"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2012-10-02T12:00:00Z",
+            "endDate": "2012-10-02T13:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "240c2215-7de2-437b-8340-627ad794467b"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2018-08-14T14:00:00Z",
+            "endDate": "2018-08-14T15:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "b3dbd59a-1bc2-4e21-938d-c6dc18a7414c"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2019-01-01T12:00:00Z",
+            "endDate": "2019-01-01T13:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "d497f477-267d-4a5c-81db-d79fea597df9"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2019-01-15T12:00:00Z",
+            "endDate": "2019-01-15T13:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "66ec8ca8-1769-4f80-b3d6-5a2a8230ce01"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2019-04-29T12:00:00Z",
+            "endDate": "2019-04-29T13:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "a9952b7e-d72e-4338-b8b6-ce57e4913e74"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2019-04-29T12:00:00Z",
+            "endDate": "2019-04-29T13:00:00Z",
+            "maximumAttendeeCapacity": 30,
+            "remainingAttendeeCapacity": 30,
+            "id": "b36d1e72-373f-4bea-80ac-08f1c9c5a4fb"
+          }
+        ],
+        "offers": [
+          {
+            "type": "Offer",
+            "price": 0,
+            "priceCurrency": "GBP",
+            "identifier": "STAND",
+            "ageRange": {
+              "type": "QuantitativeValue",
+              "minValue": 17,
+              "maxValue": 55
+            }
+          }
+        ],
+        "isAccessibleForFree": true
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "SessionSeries",
+      "id": "0a383832-3365-3862-3066-336262343839",
+      "modified": 1556717967,
+      "data": {
+        "@context": "https://openactive.io/",
+        "url": "https://openactive-turnpike.viewsapp.net/dashboard/sessionGroups/0a383832-3365-3862-3066-336262343839",
+        "id": "0a383832-3365-3862-3066-336262343839",
+        "type": "SessionSeries",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "activity": [
+          {
+            "id": "https://openactive.io/activity-list#72d19892-5f55-4e9c-87b0-a5433baa49c8",
+            "type": "Concept",
+            "notation": "angling",
+            "prefLabel": "Angling"
+          }
+        ],
+        "category": [
+          "new category"
+        ],
+        "ageRange": {
+          "type": "QuantitativeValue",
+          "minValue": 15,
+          "maxValue": 44
+        },
+        "organizer": {
+          "type": "Organization",
+          "name": "Bolton Lads and Girls Club",
+          "url": "http://BoltonLads.com",
+          "telephone": "486543765843",
+          "sameAs": [
+            "http://twitter.com",
+            "http://facebook.com",
+            "http://linkedin.com"
+          ]
+        },
+        "duration": "PT1H",
+        "name": "Christmas Party",
+        "genderRestriction": "https://openactive.io/NoRestriction",
+        "leader": [
+          {
+            "type": "Person",
+            "name": "Claire Stabler"
+          }
+        ],
+        "location": {
+          "type": "Place",
+          "url": "https://www.openactive.io/",
+          "name": "BLGC - Barlow Park",
+          "description": "No description available",
+          "id": "2c40f145-5489-43e6-abe6-c44fa1ccffac",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "streetAddress": "unknown",
+            "addressLocality": "unknown",
+            "addressRegion": "Greater Manchester",
+            "postalCode": "M15FW"
+          },
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 53.475243797955,
+            "longitude": -2.2418454766383
+          }
+        },
+        "eventSchedule": [
+          {
+            "type": "PartialSchedule",
+            "startDate": "2017-03-21",
+            "endDate": "2017-03-21"
+          }
+        ],
+        "subEvent": [
+          {
+            "type": "ScheduledSession",
+            "startDate": "2017-03-21T12:00:00Z",
+            "endDate": "2017-03-21T13:00:00Z",
+            "maximumAttendeeCapacity": 21,
+            "remainingAttendeeCapacity": 21,
+            "id": "dca9c0da-0a1b-4583-b3a6-ed0f0562c981"
+          }
+        ],
+        "offers": [
+          {
+            "type": "Offer",
+            "price": 8,
+            "priceCurrency": "GBP",
+            "identifier": "STAND",
+            "ageRange": {
+              "type": "QuantitativeValue",
+              "minValue": 15,
+              "maxValue": 44
+            }
+          }
+        ],
+        "isAccessibleForFree": false
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "SessionSeries",
+      "id": "0a383832-3365-3862-3066-336262343839",
+      "modified": 1556717967,
+      "data": {
+        "@context": "https://openactive.io/",
+        "url": "https://openactive-turnpike.viewsapp.net/dashboard/sessionGroups/0a383832-3365-3862-3066-336262343839",
+        "id": "0a383832-3365-3862-3066-336262343839",
+        "type": "SessionSeries",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "activity": [
+          {
+            "id": "https://openactive.io/activity-list#72d19892-5f55-4e9c-87b0-a5433baa49c8",
+            "type": "Concept",
+            "notation": "angling",
+            "prefLabel": "Angling"
+          }
+        ],
+        "category": [
+          "new category"
+        ],
+        "ageRange": {
+          "type": "QuantitativeValue",
+          "minValue": 15,
+          "maxValue": 44
+        },
+        "organizer": {
+          "type": "Organization",
+          "name": "Bolton Lads and Girls Club",
+          "url": "http://BoltonLads.com",
+          "telephone": "486543765843",
+          "sameAs": [
+            "http://twitter.com",
+            "http://facebook.com",
+            "http://linkedin.com"
+          ]
+        },
+        "duration": "PT1H",
+        "name": "Christmas Party",
+        "genderRestriction": "https://openactive.io/NoRestriction",
+        "leader": [
+          {
+            "type": "Person",
+            "name": "Claire Stabler"
+          }
+        ],
+        "location": {
+          "type": "Place",
+          "url": "https://www.openactive.io/",
+          "name": "Venue 14",
+          "description": "No description available",
+          "id": "30313463-6237-3139-3931-306634383862",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "streetAddress": "Oxford Way",
+            "addressLocality": "Jarrow",
+            "addressRegion": "Tyne and Wear",
+            "postalCode": "NE32 4XA"
+          },
+          "telephone": "0191 4894801",
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 53.475243797955,
+            "longitude": -2.2418454766383
+          }
+        },
+        "eventSchedule": [
+          {
+            "type": "PartialSchedule",
+            "startDate": "2017-03-21",
+            "endDate": "2017-03-21"
+          }
+        ],
+        "subEvent": [
+          {
+            "type": "ScheduledSession",
+            "startDate": "2017-03-21T12:00:00Z",
+            "endDate": "2017-03-21T13:00:00Z",
+            "maximumAttendeeCapacity": 21,
+            "remainingAttendeeCapacity": 21,
+            "id": "dca9c0da-0a1b-4583-b3a6-ed0f0562c981"
+          }
+        ],
+        "offers": [
+          {
+            "type": "Offer",
+            "price": 8,
+            "priceCurrency": "GBP",
+            "identifier": "STAND",
+            "ageRange": {
+              "type": "QuantitativeValue",
+              "minValue": 15,
+              "maxValue": 44
+            }
+          }
+        ],
+        "isAccessibleForFree": false
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "SessionSeries",
+      "id": "0a383963-6461-6632-3636-363466346434",
+      "modified": 1556717973,
+      "data": {
+        "@context": "https://openactive.io/",
+        "url": "https://openactive-turnpike.viewsapp.net/dashboard/sessionGroups/0a383963-6461-6632-3636-363466346434",
+        "id": "0a383963-6461-6632-3636-363466346434",
+        "type": "SessionSeries",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "activity": [
+          {
+            "id": "https://openactive.io/activity-list#72d19892-5f55-4e9c-87b0-a5433baa49c8",
+            "type": "Concept",
+            "notation": "angling",
+            "prefLabel": "Angling"
+          }
+        ],
+        "ageRange": {
+          "type": "QuantitativeValue",
+          "minValue": 12,
+          "maxValue": 35
+        },
+        "organizer": {
+          "type": "Organization",
+          "name": "Dev & Account",
+          "url": "https://www.example.org/",
+          "telephone": "1232434353543",
+          "sameAs": [
+            "https://www.twitter.com/everyoneactive/",
+            "https://www.facebook.com/everyoneactive/",
+            "https://www.linkdIn.com/everyoneactive/"
+          ]
+        },
+        "duration": "PT6H",
+        "name": "Session Group 10",
+        "description": "Blah",
+        "genderRestriction": "https://openactive.io/NoRestriction",
+        "leader": [
+          {
+            "type": "Person",
+            "name": "[anonymised: Forename] [anonymised: Surname]"
+          }
+        ],
+        "location": {
+          "type": "Place",
+          "url": "https://www.openactive.io/",
+          "name": "Venue 381",
+          "description": "No description available",
+          "id": "0a333965-6234-3233-3030-303633346137",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "streetAddress": "Mount Road",
+            "addressLocality": "Sunderland",
+            "addressRegion": "Tyne and Wear",
+            "postalCode": "SR4 7QF"
+          },
+          "telephone": "5535968",
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 54.89625909207,
+            "longitude": -1.4080018167744
+          }
+        },
+        "eventSchedule": [
+          {
+            "type": "PartialSchedule",
+            "startDate": "2011-11-30",
+            "endDate": "2015-08-24"
+          }
+        ],
+        "subEvent": [
+          {
+            "type": "ScheduledSession",
+            "startDate": "2011-11-30T12:00:00Z",
+            "endDate": "2011-11-30T13:00:00Z",
+            "maximumAttendeeCapacity": 25,
+            "remainingAttendeeCapacity": 25,
+            "id": "f0d9a046-9f6e-4f2a-a623-2c6605fd1b80"
+          },
+          {
+            "type": "CancelledSession",
+            "startDate": "2015-08-24T12:00:00Z",
+            "endDate": "2015-08-24T18:00:00Z",
+            "maximumAttendeeCapacity": 25,
+            "remainingAttendeeCapacity": 25,
+            "id": "3b1dd5b4-c880-4301-a463-d5a64d22884c"
+          }
+        ],
+        "offers": [
+          {
+            "type": "Offer",
+            "price": 0,
+            "priceCurrency": "GBP",
+            "identifier": "STAND",
+            "ageRange": {
+              "type": "QuantitativeValue",
+              "minValue": 12,
+              "maxValue": 35
+            }
+          }
+        ],
+        "isAccessibleForFree": true
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "SessionSeries",
+      "id": "0a396266-3934-6166-6235-326533343262",
+      "modified": 1556717978,
+      "data": {
+        "@context": "https://openactive.io/",
+        "url": "https://openactive-turnpike.viewsapp.net/dashboard/sessionGroups/0a396266-3934-6166-6235-326533343262",
+        "id": "0a396266-3934-6166-6235-326533343262",
+        "type": "SessionSeries",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "activity": [
+          {
+            "id": "https://openactive.io/activity-list#0a5f732d-e806-4e51-ad40-0a7de0239c8c",
+            "type": "Concept",
+            "notation": "football",
+            "prefLabel": "Football"
+          }
+        ],
+        "ageRange": {
+          "type": "QuantitativeValue",
+          "minValue": 12,
+          "maxValue": 35
+        },
+        "organizer": {
+          "type": "Organization",
+          "name": "Dev & Account",
+          "url": "https://www.example.org/",
+          "telephone": "1232434353543",
+          "sameAs": [
+            "https://www.twitter.com/everyoneactive/",
+            "https://www.facebook.com/everyoneactive/",
+            "https://www.linkdIn.com/everyoneactive/"
+          ]
+        },
+        "duration": "PT3H",
+        "name": "my third session group",
+        "description": "this is my third session group",
+        "genderRestriction": "https://openactive.io/NoRestriction",
+        "leader": [
+          {
+            "type": "Person",
+            "name": "Forname 105102 Surname 105102"
+          }
+        ],
+        "location": {
+          "type": "Place",
+          "url": "https://www.openactive.io/",
+          "name": "Venue 382",
+          "description": "No description available",
+          "id": "0a363765-6636-3537-3936-353433343566",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "streetAddress": "Mount Road",
+            "addressLocality": "Sunderland",
+            "addressRegion": "Tyne and Wear",
+            "postalCode": "SR4 7QF"
+          },
+          "telephone": "5535968",
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 54.89625909207,
+            "longitude": -1.4080018167744
+          }
+        },
+        "eventSchedule": [
+          {
+            "type": "PartialSchedule",
+            "startDate": "2019-04-18",
+            "endDate": "2019-09-25"
+          }
+        ],
+        "subEvent": [
+          {
+            "type": "ScheduledSession",
+            "startDate": "2019-04-18T12:00:00Z",
+            "endDate": "2019-04-18T15:00:00Z",
+            "maximumAttendeeCapacity": 11,
+            "remainingAttendeeCapacity": 11,
+            "id": "a5d593d6-1e2a-41c9-acd2-deb4b9855e64"
+          },
+          {
+            "type": "ScheduledSession",
+            "startDate": "2019-09-25T12:00:00Z",
+            "endDate": "2019-09-25T13:00:00Z",
+            "maximumAttendeeCapacity": 11,
+            "remainingAttendeeCapacity": 11,
+            "id": "99abb0e6-4e13-4ca7-8ec5-15fc712f1adc"
+          }
+        ],
+        "offers": [
+          {
+            "type": "Offer",
+            "price": 8,
+            "priceCurrency": "GBP",
+            "identifier": "STAND",
+            "ageRange": {
+              "type": "QuantitativeValue",
+              "minValue": 12,
+              "maxValue": 35
+            }
+          }
+        ],
+        "isAccessibleForFree": false
+      }
+    },
+    {
+      "state": "updated",
+      "kind": "SessionSeries",
+      "id": "30363739-3865-6235-6638-303734656162",
+      "modified": 1556717985,
+      "data": {
+        "@context": "https://openactive.io/",
+        "url": "https://openactive-turnpike.viewsapp.net/dashboard/sessionGroups/30363739-3865-6235-6638-303734656162",
+        "id": "30363739-3865-6235-6638-303734656162",
+        "type": "SessionSeries",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "activity": [
+          {
+            "id": "https://openactive.io/activity-list#0a5f732d-e806-4e51-ad40-0a7de0239c8c",
+            "type": "Concept",
+            "notation": "football",
+            "prefLabel": "Football"
+          }
+        ],
+        "ageRange": {
+          "type": "QuantitativeValue",
+          "minValue": 15,
+          "maxValue": 45
+        },
+        "organizer": {
+          "type": "Organization",
+          "name": "Dev & Account",
+          "url": "https://www.example.org/",
+          "telephone": "1232434353543",
+          "sameAs": [
+            "https://www.twitter.com/everyoneactive/",
+            "https://www.facebook.com/everyoneactive/",
+            "https://www.linkdIn.com/everyoneactive/"
+          ]
+        },
+        "duration": "PT1H",
+        "name": "New Session Group 1",
+        "description": "this is my 1st new Session Group",
+        "genderRestriction": "https://openactive.io/NoRestriction",
+        "leader": [
+          {
+            "type": "Person",
+            "name": "Kath O&#039;Conner"
+          }
+        ],
+        "location": {
+          "type": "Place",
+          "url": "https://www.openactive.io/",
+          "name": "Venue 51",
+          "description": "No description available",
+          "id": "0a646263-3230-6136-3866-373564343365",
+          "address": {
+            "type": "PostalAddress",
+            "addressCountry": "GB",
+            "streetAddress": "Toner Avenue",
+            "addressLocality": "Hebburn",
+            "addressRegion": "Tyne and Wear",
+            "postalCode": "NE31 2PG"
+          },
+          "telephone": "0191 4202588",
+          "geo": {
+            "type": "GeoCoordinates",
+            "latitude": 54.962128784265,
+            "longitude": -1.5179962311244
+          }
+        },
+        "eventSchedule": [
+          {
+            "type": "PartialSchedule",
+            "startDate": "2019-05-15",
+            "endDate": "2019-05-15"
+          }
+        ],
+        "subEvent": [
+          {
+            "type": "ScheduledSession",
+            "startDate": "2019-05-15T12:00:00Z",
+            "endDate": "2019-05-15T13:00:00Z",
+            "maximumAttendeeCapacity": 20,
+            "remainingAttendeeCapacity": 20,
+            "id": "1db39923-cb94-4164-a2cf-f8852c3fa348"
+          }
+        ],
+        "offers": [
+          {
+            "type": "Offer",
+            "price": 8,
+            "priceCurrency": "GBP",
+            "identifier": "STAND",
+            "ageRange": {
+              "type": "QuantitativeValue",
+              "minValue": 15,
+              "maxValue": 45
+            }
+          }
+        ],
+        "isAccessibleForFree": false
+      }
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}
